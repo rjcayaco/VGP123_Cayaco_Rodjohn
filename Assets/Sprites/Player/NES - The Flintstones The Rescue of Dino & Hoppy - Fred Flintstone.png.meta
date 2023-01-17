@@ -1,0 +1,1763 @@
+fileFormatVersion: 2
+guid: 0bc1361e035f15c43a8a085f380997f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FredWalk4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 364
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d471a5438a6244caad535f6ef7eb20
+      internalID: 764698022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredWalk5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 362
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270a865978cfd694faec0be51f5fbc27
+      internalID: -518522369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fredwalk6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 366
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8094094d219dfc4b9535fc86bf883c4
+      internalID: 543955483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 362
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69549d79ace992643ae37112e062d2f8
+      internalID: -2117575883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 362
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddaf5072f3d0854393ff6af88c0a19c
+      internalID: 968689473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredJump1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 369
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988ee0d49faca5146aefe3c9703ad900
+      internalID: 1404139125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredJump2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 366
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5218037ab53270749a4a5089202e7df6
+      internalID: -1853640419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 284
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a13ff79c159fe648b4f7afe6ce1f04c
+      internalID: -2113874769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 284
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005f79c4f8d5c846bcfbb2787428245
+      internalID: -1444044712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 284
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940579c04bbdb9c438d5324d57e7e808
+      internalID: -242955965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 284
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef13505804e16dd449d05671ff8ba154
+      internalID: 138354509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 283
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad9123c581094f4ea685c86c1d2d43a
+      internalID: 1471895889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 284
+        width: 28
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f13f2e3ebc234c4097fa93745b1fbac
+      internalID: -1225843335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredAttack1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 289
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c765b9386efd4dac9a6f29c41743f
+      internalID: 1457039668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredAttack2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 284
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bb2df9bec6dda4b98def2b09d3c58c
+      internalID: 701311361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 270
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dbb316f27723d458888fd41a5ce59b
+      internalID: 309842864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 270
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adad16a36dc3c04fb380f7dc6737a78
+      internalID: -234530018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91817cfb50b955c47b388ea0396bd55e
+      internalID: 1731394328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 192
+        width: 17
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1799ec08dbf1ece4cb899bbb89ba3ee1
+      internalID: -1364456044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 193
+        width: 20
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29639ebd185b25d4e9ddf39ebcead4d9
+      internalID: 734772086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 209
+        width: 15
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ff306db0f04324bba5d19614d6b94e
+      internalID: -1164824830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 218
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d856354f674e1524ca2017abedf6e7c8
+      internalID: -1839680211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 225
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a8c5ce5e71844dbfc8b13dc2019e5
+      internalID: 1897032279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 226
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca81d163bf5d50746b11a75e241e88f2
+      internalID: 1122571531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 233
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9bb0a57d155664bbc5139cebaadef9
+      internalID: -202226863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 217
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e270a9c61dbe140b1f83ea2d41b057
+      internalID: 126179922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_31
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 227
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f2b430006cb04fba5005601ed6a0e
+      internalID: 1634574361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 191
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4438df5284c1804a8b92638fc88c595
+      internalID: -380208620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 189
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022937835c077de42a0067f4b44d2d55
+      internalID: 1573963756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 182
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e38f1c076cd7c240ba419c8735a22c0
+      internalID: -451089674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 192
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f4bcf2090beba43ad6c2746f60448c
+      internalID: -1453177978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_36
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 158
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a99fc635b6d5440b6f1e56aa1e82e6
+      internalID: -38449292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_37
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 142
+        width: 40
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb096377dd9f44cad4f3ba2dd6b019
+      internalID: -475419663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 149
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be78fe8536f3eb499905d0a8ccd40e3
+      internalID: 464034063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923962b615d634c4b8df627478cc883f
+      internalID: -738748556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 162
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1481ca198941d4a409b8fc98e6c51890
+      internalID: 337287331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_41
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 162
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e68b3999840224c823d0d99d255ab8
+      internalID: 1751304448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 162
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d54bd56d671d004da13389eaacacccc
+      internalID: -2008105043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001b7f529bd55154f872b800a6a348e1
+      internalID: -439430392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 161
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9aee4a62a112b44a544cdf760586ca
+      internalID: -19732963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 139
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced37a07627ca84f8399900bb8eb425
+      internalID: 862515418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 103
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb243d4498a8844ca41f72f8b7771ef
+      internalID: 1773858295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 103
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaff02b56f17db45b5b938dbba5581f
+      internalID: 244166896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 103
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b372fe7a237c54abe1f4333f6fdb0f
+      internalID: -2004397695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 116
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae0ea8e56256e849be1bcd416699922
+      internalID: -415749188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d3602dcf36274fb8f59ca13d5bfb7
+      internalID: 1513014176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 57
+        width: 18
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a5753558f2ce44991b405fcbc88d6f
+      internalID: -281051776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 57
+        width: 18
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e675f49803a5bf4d8f39e55e84773fb
+      internalID: 1941941909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 20
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1b23862729e2a47a9b55dde8e5ea6a
+      internalID: -1919566016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 57
+        width: 22
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e616b9f7bab3d0c44ab98fbd3a15d8b3
+      internalID: -296895942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 57
+        width: 21
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c4b065f0d30640a5c16e7a62c935f
+      internalID: 789594303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 57
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046da50c89434fc4d8c5db4b46296f03
+      internalID: -1074319851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 57
+        width: 18
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9bfa804730e5409e8006feaad836a
+      internalID: -1942261133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_58
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 57
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29312c69ba2b130428176deb8711d463
+      internalID: -1969446533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 57
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287d27e422946234fb238f8deff07aa4
+      internalID: -1884924475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_60
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 57
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0141a5a8464f11947b92ccbd1af5a281
+      internalID: 819478102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_61
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 57
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e7fc522ff64c34c9fca4a81f93fc3f
+      internalID: -1842304858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_62
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 57
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b3099dbc40284085d1cf334ac308f
+      internalID: -1631237957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_63
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 57
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979184f205fd9e841ba5df822739bdf5
+      internalID: -117214158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75251b92cbeae8946a473b6a59f883f0
+      internalID: 1547960572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 23
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7dd8f6ba2254f43aa5fa64795c577e
+      internalID: 372081424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5c5c3dd53cc594ea0d2ad1a78e2606
+      internalID: -1592160488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_67
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 7
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b419cccec4b41a4e866fdfcb637d8ba
+      internalID: -1816455847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_68
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 7
+        width: 23
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9df8edd164bb1b4dbfe34efac6dd421
+      internalID: -1045792380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_69
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 7
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2664b4a9fff8ea94e8a27e5d5a9b4991
+      internalID: 1031608358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bcae75a6c7c6d448c833005c14539b
+      internalID: -252452284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_71
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 7
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e642baa1670cf4c93381444babd979
+      internalID: -11487161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_72
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 7
+        width: 17
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c6fce4e4b864942a7186821aaf73f0
+      internalID: 895489094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 11
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164604c4657390944925d14496a9e6e0
+      internalID: -918577146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredIdle
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 362
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb8956834aa9741ac37f3066904ddb
+      internalID: 828973513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 362
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9852c2ba733f645a8467ac505e9685
+      internalID: 913960691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredWalk1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 364
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135ed21977154cc42a8dc3311d4d8add
+      internalID: 743643121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredWalk2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 362
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7eea29155d342458bfb8ed7a06e1d0
+      internalID: 1123506612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredWalk3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 365
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cc092d325b60146b5ca37c64fe1ce1
+      internalID: 81864833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_65: 372081424
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_14: -242955965
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_1: 913960691
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_61: -1842304858
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_29: -202226863
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_53: -1919566016
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_40: 337287331
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_63: -117214158
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_45: 862515418
+      Fredwalk6: 543955483
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_54: -296895942
+      FredJump1: 1404139125
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_36: -38449292
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_50: 1513014176
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_64: 1547960572
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_72: 895489094
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_46: 1773858295
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_31: 1634574361
+      FredWalk4: 764698022
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_55: 789594303
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_22: 1731394328
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_27: 1897032279
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_16: 1471895889
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_21: -234530018
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_44: -19732963
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_62: -1631237957
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_58: -1969446533
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_47: 244166896
+      FredWalk5: -518522369
+      FredWalk3: 81864833
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_25: -1164824830
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_71: -11487161
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_9: 968689473
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_60: 819478102
+      FredWalk2: 1123506612
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_43: -439430392
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_32: -380208620
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_33: 1573963756
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_12: -2113874769
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_69: 1031608358
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_38: 464034063
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_68: -1045792380
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_28: 1122571531
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_20: 309842864
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_17: -1225843335
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_39: -738748556
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_67: -1816455847
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_66: -1592160488
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_70: -252452284
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_73: -918577146
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_8: -2117575883
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_37: -475419663
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_49: -415749188
+      FredJump2: -1853640419
+      FredAttack2: 701311361
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_51: -281051776
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_24: 734772086
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_30: 126179922
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_26: -1839680211
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_15: 138354509
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_13: -1444044712
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_42: -2008105043
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_41: 1751304448
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_23: -1364456044
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_48: -2004397695
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_59: -1884924475
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_56: -1074319851
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_57: -1942261133
+      FredWalk1: 743643121
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_34: -451089674
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_35: -1453177978
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_52: 1941941909
+      FredAttack1: 1457039668
+      FredIdle: 828973513
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
