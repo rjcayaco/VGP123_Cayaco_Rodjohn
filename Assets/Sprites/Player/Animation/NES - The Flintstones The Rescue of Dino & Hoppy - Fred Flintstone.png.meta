@@ -180,7 +180,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_8
+      name: FredSlide
       rect:
         serializedVersion: 2
         x: 335
@@ -306,7 +306,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_14
+      name: FredJumpAttack
       rect:
         serializedVersion: 2
         x: 97
@@ -474,7 +474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_22
+      name: FredLedgeGrab
       rect:
         serializedVersion: 2
         x: 5
@@ -495,7 +495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_23
+      name: FredLedgeGrab2
       rect:
         serializedVersion: 2
         x: 38
@@ -516,7 +516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_24
+      name: FredLedgeGrab3
       rect:
         serializedVersion: 2
         x: 63
@@ -537,7 +537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_25
+      name: FredLedgeUP1
       rect:
         serializedVersion: 2
         x: 118
@@ -558,7 +558,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_26
+      name: FredLedgeUP2
       rect:
         serializedVersion: 2
         x: 142
@@ -579,7 +579,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_27
+      name: FredLedgeUP3
       rect:
         serializedVersion: 2
         x: 175
@@ -600,7 +600,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_28
+      name: FredLedgeUP4
       rect:
         serializedVersion: 2
         x: 207
@@ -621,7 +621,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_29
+      name: FredLedgeUP5
       rect:
         serializedVersion: 2
         x: 238
@@ -642,7 +642,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_30
+      name: FredWing1
       rect:
         serializedVersion: 2
         x: 399
@@ -663,7 +663,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_31
+      name: FredWing2
       rect:
         serializedVersion: 2
         x: 445
@@ -684,7 +684,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_32
+      name: FredBomb1
       rect:
         serializedVersion: 2
         x: 141
@@ -705,7 +705,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_33
+      name: FredBomb2
       rect:
         serializedVersion: 2
         x: 164
@@ -726,7 +726,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_34
+      name: FredBomb3
       rect:
         serializedVersion: 2
         x: 186
@@ -747,7 +747,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_35
+      name: FredHit
       rect:
         serializedVersion: 2
         x: 326
@@ -768,7 +768,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_36
+      name: FredDinoIdle
       rect:
         serializedVersion: 2
         x: 398
@@ -789,7 +789,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_37
+      name: FredDinoJump
       rect:
         serializedVersion: 2
         x: 449
@@ -810,7 +810,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_38
+      name: FredThrow1
       rect:
         serializedVersion: 2
         x: 4
@@ -831,7 +831,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_39
+      name: FredThrow2
       rect:
         serializedVersion: 2
         x: 50
@@ -852,7 +852,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_40
+      name: FredTomaProj1
       rect:
         serializedVersion: 2
         x: 95
@@ -873,7 +873,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_41
+      name: FredTomaProj2
       rect:
         serializedVersion: 2
         x: 117
@@ -894,7 +894,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_42
+      name: FredTomaProj3
       rect:
         serializedVersion: 2
         x: 139
@@ -915,7 +915,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_43
+      name: FredTomaProj4
       rect:
         serializedVersion: 2
         x: 162
@@ -936,7 +936,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_44
+      name: FredThrowEquip
       rect:
         serializedVersion: 2
         x: 214
@@ -957,7 +957,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_45
+      name: FredBombEquip
       rect:
         serializedVersion: 2
         x: 214
@@ -978,7 +978,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_46
+      name: FredShoot1
       rect:
         serializedVersion: 2
         x: 4
@@ -999,7 +999,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_47
+      name: FredShoot2
       rect:
         serializedVersion: 2
         x: 43
@@ -1020,7 +1020,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_48
+      name: FredShoot3
       rect:
         serializedVersion: 2
         x: 84
@@ -1041,7 +1041,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_49
+      name: FredShotProj
       rect:
         serializedVersion: 2
         x: 129
@@ -1062,7 +1062,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_50
+      name: FredShootEquip
       rect:
         serializedVersion: 2
         x: 214
@@ -1682,79 +1682,79 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_65: 372081424
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_14: -242955965
+      FredBombEquip: 862515418
+      FredIdle: 828973513
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_1: 913960691
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_61: -1842304858
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_29: -202226863
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_53: -1919566016
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_40: 337287331
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_63: -117214158
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_45: 862515418
+      FredShoot1: 1773858295
       Fredwalk6: 543955483
+      FredShotProj: -415749188
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_53: -1919566016
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_54: -296895942
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_63: -117214158
+      FredTomaProj4: -439430392
+      FredLedgeUP5: -202226863
+      FredShoot2: 244166896
       FredJump1: 1404139125
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_36: -38449292
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_50: 1513014176
+      FredJumpAttack: -242955965
+      FredShootEquip: 1513014176
+      FredDinoJump: -475419663
+      FredTomaProj3: -2008105043
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_64: 1547960572
+      FredWalk5: -518522369
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_72: 895489094
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_46: 1773858295
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_31: 1634574361
-      FredWalk4: 764698022
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_55: 789594303
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_22: 1731394328
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_27: 1897032279
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_71: -11487161
+      FredWalk4: 764698022
+      FredLedgeGrab: 1731394328
+      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_62: -1631237957
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_16: 1471895889
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_21: -234530018
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_44: -19732963
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_62: -1631237957
+      FredWing2: 1634574361
+      FredBomb1: -380208620
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_58: -1969446533
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_47: 244166896
-      FredWalk5: -518522369
+      FredLedgeGrab3: 734772086
       FredWalk3: 81864833
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_25: -1164824830
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_71: -11487161
+      FredShoot3: -2004397695
+      FredWing1: 126179922
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_9: 968689473
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_60: 819478102
       FredWalk2: 1123506612
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_43: -439430392
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_32: -380208620
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_33: 1573963756
+      FredLedgeUP1: -1164824830
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_12: -2113874769
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_69: 1031608358
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_38: 464034063
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_68: -1045792380
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_28: 1122571531
+      FredThrow2: -738748556
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_20: 309842864
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_17: -1225843335
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_39: -738748556
+      FredLedgeUP3: 1897032279
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_67: -1816455847
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_66: -1592160488
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_70: -252452284
+      FredTomaProj2: 1751304448
+      FredSlide: -2117575883
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_73: -918577146
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_8: -2117575883
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_37: -475419663
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_49: -415749188
       FredJump2: -1853640419
+      FredHit: -1453177978
       FredAttack2: 701311361
+      FredLedgeGrab2: -1364456044
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_51: -281051776
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_24: 734772086
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_30: 126179922
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_26: -1839680211
+      FredLedgeUP2: -1839680211
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_15: 138354509
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_13: -1444044712
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_42: -2008105043
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_41: 1751304448
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_23: -1364456044
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_48: -2004397695
+      FredThrowEquip: -19732963
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_59: -1884924475
+      FredThrow1: 464034063
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_56: -1074319851
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_57: -1942261133
       FredWalk1: 743643121
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_34: -451089674
-      NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_35: -1453177978
+      FredBomb2: 1573963756
+      FredBomb3: -451089674
+      FredDinoIdle: -38449292
+      FredTomaProj1: 337287331
       NES - The Flintstones The Rescue of Dino & Hoppy - Fred Flintstone_52: 1941941909
       FredAttack1: 1457039668
-      FredIdle: 828973513
+      FredLedgeUP4: 1122571531
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
