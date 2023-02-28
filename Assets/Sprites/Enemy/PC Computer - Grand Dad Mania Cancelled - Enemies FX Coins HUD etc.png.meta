@@ -1,0 +1,5434 @@
+fileFormatVersion: 2
+guid: 70619da860d0e5b41b6fbefc5329d1c8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathY
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 645
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1aa50bb7935ba46b3c8a72943a3142
+      internalID: 1176446929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 669
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2fa5d850946274c86df1908e0cef71
+      internalID: -867216350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathP
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 645
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba4b2ada1475ed418822d05c81754b0
+      internalID: 1149206135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 645
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c328f4dacd054f8df73899ec48870
+      internalID: 614535951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 577
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df786df0b7e7315408b0a618781193a4
+      internalID: -1549216139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 579
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab15ed375178c04fa1dff921c0313c6
+      internalID: -878154668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 583
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ded7aa24b918468ca7f2ea91a184b
+      internalID: 932433953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDinoGRun1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 578
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef310c5938bfbe44b8be17a211cd462
+      internalID: 1779873189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDinoGRun2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 577
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315ccc3c4b88ca146ae7ce1e7614ac31
+      internalID: -955190230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDinoGRun4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 578
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d19b857a9c2464e97608e4efa03358
+      internalID: -1934478630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDinoPRun1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 531
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca43ce601e693754e9d9dee298d60c0b
+      internalID: -1089692046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDinoPRun2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 530
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0052785566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f258867808eae744a815f757b6d3818
+      internalID: -1894748635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 531
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819ffd6bdfa770c4d8f227b5cdee113e
+      internalID: 2040964672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 519
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de7288d68f6ee40ae408ae3c15d266
+      internalID: 1166776064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 519
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae44156b5b7d3644a3e78472841c273
+      internalID: 1242030009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 519
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166973a2c2b8794ca8d2b8c4f40734a
+      internalID: 1236258441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyClubAttackR
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 464
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceabad13d2560e84381a349f0deba8fe
+      internalID: 545857238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyClubAttack
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 464
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201554a64d1a1b541b7ab7c0ae51c6d0
+      internalID: 677459569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyClubReady
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 464
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3539e1708ba4844880237ebfa90d31
+      internalID: 1888112299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_19
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 464
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d54606142e4a7445a34ed704546eb3b
+      internalID: 1590631824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 464
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806683415f57744eb132d399a667445
+      internalID: -995999084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 464
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a327ca8b15ad6c47be223ba470e694f
+      internalID: -996899583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggBatterProjectile
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 472
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6437a1deaef1c6c4dbc48cbeed201270
+      internalID: 210278347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 472
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dec00a3bb43874799b66c8a2a23295
+      internalID: 1674266526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 485
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8058592609244974cb51a6dc97c8bd65
+      internalID: -1364289107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 414
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8962d66578edcb44d9d8d21516f04f6a
+      internalID: 1035782967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 414
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f57de2e5e713f41a3b7036a3cea998
+      internalID: 1759002413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 414
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c539315a334db49439a32d0cc7fb8cd1
+      internalID: 3844732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 414
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b864de924fadabf43893eeac95f51b85
+      internalID: 1353308757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 414
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf2805f03a0fc4d9beabaedb4a50a0
+      internalID: -886248727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 414
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a623ad8238c7ffc4e8c70c0aa8c359c8
+      internalID: 1965979405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 414
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f80bed0b4483a41b4dba1020e2ece8
+      internalID: -167730342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cd8e496e4facf43a1dbc43c248f3d0
+      internalID: 763921227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 366
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094252865c803140b23c7be713e1c2f
+      internalID: -711853250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 370
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005d6ca317e80bc41b0a7148f76b7d4a
+      internalID: 1907434851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95202fe87b51c44dbbf0e968e680ab1
+      internalID: -387515496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b6ada0ea6d0fe47807cebd47fb3c9e
+      internalID: -750694655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e9223c787e5154d98ec1841aa71397
+      internalID: -157313657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_38
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 379
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cb9f55ea46edd4dbb0fbff87af217d
+      internalID: 1009323829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa42c6961b965c46be0f5e74e008c66
+      internalID: 1983638605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 379
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fab14f8e1cf554786557471daa2bc4
+      internalID: 751233730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133f4fcc844d10243b7c011305c17f52
+      internalID: 1528347722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee49a8afd04352e44ae629d1f411e9b1
+      internalID: -999430160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeccf2983e4cbe47a8a1c41afb1ccac
+      internalID: -236568771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc40e43ebb1d594a89d103ba9e3ed14
+      internalID: 927844526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23425e4bf3c7c2c4da7cc67047dec712
+      internalID: 1677861912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 378
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bfe18fca6d326458974b0d34be5022
+      internalID: -1186249523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 273
+        width: 24
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca3a356629ec8e4daebd8ab62cee3a7
+      internalID: -1571176070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 273
+        width: 24
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40553bbf1c74f634abe41fba32153de5
+      internalID: -1254235028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_49
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 273
+        width: 24
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c90b9bf7698c874b9e44afd1f1f2a0e
+      internalID: -1367519091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c485a3dcb5795bd478d1064632437918
+      internalID: 1900801807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed595d166c4d2e4cbfb67d5e303e628
+      internalID: 2102561827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3779c2a3d6e4d8f4b97bbc3009dbfbb7
+      internalID: 115433541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfa28d0078dbf442b7611271b2b7fae
+      internalID: -489451540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 338
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a3537a22275cb4ca5486ee33752dda
+      internalID: -688747079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 338
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbf62b3602db64448c92ee9745fd938
+      internalID: 1682623402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bfdad494ddf5b4491542ecdbd2743c
+      internalID: -646882795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_57
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d868199ebc92d4cb55ca88118cd7d4
+      internalID: 443882036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 371
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472f14cd42ea794dbc0c5b34f1b4465
+      internalID: -589066521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 370
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fcda5b97f8a244ba609d2c06d3feba
+      internalID: 235382483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_60
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b16b58dc8274448b60b21cea3c3005
+      internalID: -2132380165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 338
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c57789f22013f47bd88b6c3440826b
+      internalID: 1109189445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_62
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 338
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fde813779738846bbdccdea7b7b40e
+      internalID: -1726790334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_63
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 338
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63199c4d9586e154893be57f15d96bb9
+      internalID: 1463523478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 338
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0fc627a81e1284697d966dc31c3437
+      internalID: -1866324863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 338
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e3d9144333b541a750d61cc0ee4f0
+      internalID: -1120875466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec0bacf14c215840a2e6255afa117dc
+      internalID: 128065256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_67
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da5780f5662344ba393f8f15ccd214
+      internalID: 1806982894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 354
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b9bf28176b534ba35b8fdbd873b2f
+      internalID: -521692278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 338
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1779491ba24925409caeaacf8386c5a
+      internalID: 238145447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_70
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 346
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d768204b2d537a340bdf680b99026bfa
+      internalID: -1951289686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 354
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5a1c1d6906a448864254ffaeb694e
+      internalID: -1995298437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 338
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415db43fcc92dd2499bdeb24cfaddb79
+      internalID: 143960193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 338
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9ad7d77e53804eb4026940d63d25e
+      internalID: -1123672723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 338
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea0493695580034ca41df9632835e03
+      internalID: 1396871549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_75
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 346
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ff7f23ac45554ca8954a32b3d58e3
+      internalID: -1226193472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_76
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b10833addf422489f7b76c843acb24
+      internalID: -1838700942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_77
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441a11caa7bedd24fbeab1d7848f8d3a
+      internalID: 1356740029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37581e7fe687f034da448fe65baab6e3
+      internalID: -1278257251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3434eeffcea0bef4cbe65af4e8525496
+      internalID: 151363865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_80
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc939c87335a0d4d973154592dd915d
+      internalID: -1222886444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63958aa22a6a5de4ab9a0c35f8bd04ae
+      internalID: 914323537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_82
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b97200691682c44b91006c9898d812
+      internalID: 717888478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc7c4c5f44ba464c9bb1c2c9c6363d9
+      internalID: 1468458633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_84
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 310
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cad570175d7b4a428615630488d0612
+      internalID: 896560825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_85
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35ccc45f0c88d344a281eee64a83dc8
+      internalID: 2010011714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918c3cbd787c5243abbca31db5381c5
+      internalID: 1034846983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 269
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d71a0d3c24f534d850a1aae5051839
+      internalID: -1159080195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_88
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 269
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981a5f1bb0e114040bc478a17e8d040e
+      internalID: -638630599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_89
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 269
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1e4a09e5907cc4db558abe1711d5ef
+      internalID: -672902175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_90
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 253
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ff92e8eb0b004584240cd686aa55a
+      internalID: 25923607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4ebe0e4cbf1a45be0a71c5e163ff2
+      internalID: 2074081447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_92
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63834a4b8cd7ff443a675eb6de82a355
+      internalID: -1119771948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5ec98d29cf75e4cbef2a5e7eb4d267
+      internalID: 1235620614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaf22ff640f2714f8020cda28196aca
+      internalID: 1656346177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_95
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8504eded10ef4c64bb262d097d055ed0
+      internalID: -687317679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_96
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c783c11a2acb4e92bf7bb2d5debf4
+      internalID: 1503204477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_97
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc024cd250e7344783002410c8e07f3
+      internalID: 2079774498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787cfaf3809dd1b46908554e300b29ea
+      internalID: 1640431662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_99
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3e02b86f8d40d41907d3d734741ac5
+      internalID: 545017466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 173
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e6c070502b79d46a253a9684dac25d
+      internalID: -901788530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 173
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6ce3793f8ed9e44a9676f659af9786
+      internalID: 1813529965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4092d8d7614c47845b8345555b8b4b4a
+      internalID: -211553546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_103
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e611e2c337f1d344e85cccd60685ec98
+      internalID: -1782149885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_104
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece16d7646e923a469315a2ee39c2f77
+      internalID: -1886151566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_105
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba0d8d6b56f03443840fcc688320516
+      internalID: -663405951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_106
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fadcfa5dcb6b1747b589eea97c5921b
+      internalID: 1700511621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_107
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f820998bfba484ab88dc159bd06ed9
+      internalID: -763663726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_108
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6361db62806b844794102837be6fa40
+      internalID: -1816853184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_109
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1062cdd36c86347bd3bd96bfbb6eae
+      internalID: -1993149063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_110
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4538b04880625a54c9fa23e5227273bc
+      internalID: -188307102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b00f0072bc260f439f9ddef239cab48
+      internalID: 292030855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_112
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d3fad85fc7bf4181e1ef888d7b95a
+      internalID: -2013559458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_113
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1a18b2c5d9aee4ea1a9f2122e7c36c
+      internalID: -941877932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_114
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af53a091edd4230489e1e9ee52d5b709
+      internalID: 1760908977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_115
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c871605f572164b8c4158d6c488c03
+      internalID: 1883541241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_116
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 173
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a6db8bfe04a4e40966544053817a77
+      internalID: 845004681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_117
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc3c91c7a84b344390b31a2e8c73fbd
+      internalID: -477201913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_118
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e65f003a84d034faf5a92b810de3fc
+      internalID: 2122651794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_119
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 173
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeeb7c29ec000f46812f40864abe7c9
+      internalID: 157200071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_120
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49af2fc8934e984e875a762e8e265d0
+      internalID: -136503838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_121
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 173
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e8cb1478f92941abbe6a91a55cb98
+      internalID: 20233929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_122
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db28627857414fc49a2a415ae2d8cffe
+      internalID: -795958401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3df1a49fe044943b56beea9e649a1b
+      internalID: 1817212264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_124
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e245ff38275b0a04eac2752ff4d17f9d
+      internalID: 1932191613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_125
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995b22bb39858d74eb77bcf0eb740f49
+      internalID: -1780503202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_126
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 160
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8907d9bae1e523c41ad7f80db24bc8fa
+      internalID: 1424228392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_127
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60458b497f12954a84e58a306a68004
+      internalID: 2129655217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_128
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 160
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e06f25b334733b4c8e905b7e917a8bd
+      internalID: -456236636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_129
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 160
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee368724ffb154b4cb51cbced01b98d5
+      internalID: -1415070888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_130
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe99ddeba775e94095acde288e08364
+      internalID: 618645017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_131
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9134dd62aae267c4990ef1f4e6cefbfd
+      internalID: -1459913956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_132
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c33af6df1629547b3addb7420c32fa
+      internalID: -1725311761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_133
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db78b847c6e2843b010e329153dcc0
+      internalID: -1456028570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_134
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3971f2976d1b5f469dd7ea54fca6f5f
+      internalID: 137424977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_135
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 160
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42896bfb4e4488845b54d9df6c1778cf
+      internalID: 143281223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_136
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b48c18efc768fe409db02b4056b645e
+      internalID: -161605363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_137
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079497b7e003b3944856cd56614020ee
+      internalID: -2108825172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_138
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab223d9f6e02dbc47b6de9354e27547e
+      internalID: 1197305587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_139
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782a70fde6d85594c98943d075b06b57
+      internalID: 1599237918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_140
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7282d2c488a340b651b5be4f2e9b9
+      internalID: 319554890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_141
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 159
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49e7ec07be0cbf458e02331cd9c2961
+      internalID: -919538757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_142
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c82cf1bb2070034993e9217b1715f9b
+      internalID: -98110770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_143
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 160
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a04ca11743219a44a80d75c4796c9e2
+      internalID: -792260721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_144
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5620252f559cd45a802022b49e85a5
+      internalID: 1816187117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_145
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c22e69a537ff234792b305f7ccc62ce
+      internalID: 119773009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_146
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249fc9bfefdc4584e86c2126621845e0
+      internalID: -2088135372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_147
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423ddd12b5b0d1c4fb61607e8094b1fd
+      internalID: 2145993028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_148
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eb8620702676143951cfdaf9792212
+      internalID: 1816551298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850538bcd551124ea69b7230f98f275
+      internalID: -850059220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_150
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ff0ac18eeefba45930538e5369ae5a
+      internalID: 1803448510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_151
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff16b46e110e6043a2648db62eb6487
+      internalID: -1324853978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_152
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfb35722f5f2aa42b54854469e9a7fd
+      internalID: 1488665527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_153
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8499d4995c405204290d75037f6f1054
+      internalID: 723833768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_154
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a415e3bcf3ba57849801421b5c6027e6
+      internalID: -1150838699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_155
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66874a4b787d784aa8b29e16f9bf103
+      internalID: -720332128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_156
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729a1d1dfcfd8084fbd6b290129591ff
+      internalID: -2144024194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_157
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f224d3b651fa6804aa380ffd77851688
+      internalID: 2040394163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_158
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63e416ab7e6c0438880f7679dc2d0d
+      internalID: 257033037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_159
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48d99365c09be74f80b6dc24f3e5821
+      internalID: 1146955613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_160
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0bc97ebec6c634786d7c1cdab60509
+      internalID: 1986701144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_161
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9910a62091bd144bd2d72413995d39
+      internalID: 879934245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_162
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82e0e1d8c11414489196f999042b77
+      internalID: 817330440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_163
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224bb3cc8dbdac14fa5d2614b20a2455
+      internalID: 1198904058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_164
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9319aa37ca3e24a993f068fec30ab0
+      internalID: 202925005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_165
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 134
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23819406bf4058945801fcfab23a5c22
+      internalID: 1049262707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_166
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663abb9bc2ea36147864c44189ab5367
+      internalID: -741945887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_167
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af16c53a0a415aa49a768803dff12745
+      internalID: 417566746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_168
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba97afc33f612b48af5afef7c9bcd4b
+      internalID: -1817745974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_169
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3759c3dc7412d704eb42c3e38ad1ab21
+      internalID: -2078739138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_170
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c97e1d8716ad449a60d42cd732070
+      internalID: -463467246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_171
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 134
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd31a545c95744da68ff603ffedce0
+      internalID: -267816633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_172
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d4caf15bd71e4aa539bb33bda4222
+      internalID: 1127279456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_173
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e295f9b9cf7a0f441936accf3b47b420
+      internalID: -915958620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_174
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa6fbf0ad1b1245a54c5a2b64d2fa5
+      internalID: -980268622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_175
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae5002f60a5479448cc90bfb4654fb5
+      internalID: -1393743118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_176
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da66f182beb0cfe4692251cd838a6c84
+      internalID: -478076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_177
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cd7e72b3d94974aaff0af707183f6d
+      internalID: 130261033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_178
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee13dc2d3224cbe49bef47111b2f8784
+      internalID: 1463840857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_179
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44c994164aa95b44b4a80bd6ec91e7a
+      internalID: -539408494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_180
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 20
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef7d76f5ccb22408525d6fedce3b5c
+      internalID: -1121970724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_181
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 35
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93660555178347459a474d58c96085d
+      internalID: 2105288483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_182
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9104da5f26cec048abe633275f91db5
+      internalID: -468563506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_183
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 35
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c1d087af13184887247733093236f
+      internalID: 754885317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_184
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 35
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de0fe67a1551c04789e11dddcbc72b7
+      internalID: -1324205595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_185
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 35
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a144e8a1c9b393b4483ff939945e6619
+      internalID: 1906624771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_186
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 35
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fe6037f68e59b45b2d41c842fd1dcb
+      internalID: -50458600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_187
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 35
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6775f891d3880584895ef2552135b12b
+      internalID: 1296968289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_188
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 35
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073432b4b6c7cd2439d52bb53d6464a8
+      internalID: -932125105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_189
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 35
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7242db87d7c643b498d4379f1ab0154a
+      internalID: -1304336582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_190
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 35
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5105bc5973e34ca74a856715d6a78
+      internalID: -120701838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 583
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa51a308c28ff5429b977cc07983d29
+      internalID: 1015500463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDinoGRun3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 577
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595e6ce55ba87f4b8b74be7180824bd
+      internalID: 705346135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDinoPRun3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 530
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2281d15ea449d444598bb19f28d40cd6
+      internalID: -485331357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 414
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902420cf366c4bb498a3b3078d41f500
+      internalID: 1907331699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -140.5, y: -271}
+      - {x: -154.5, y: -284}
+      - {x: -154.5, y: -316}
+      - {x: -148.5, y: -330}
+      - {x: -129.5, y: -330}
+      - {x: -122.5, y: -327}
+      - {x: -122.5, y: -275}
+      - {x: -129.5, y: -271}
+    - - {x: -72.5, y: -290}
+      - {x: -72.5, y: -315}
+      - {x: -23.5, y: -315}
+      - {x: -23.5, y: -293}
+      - {x: -27.5, y: -290}
+    - - {x: 0.5, y: -291}
+      - {x: -1.5, y: -290}
+      - {x: -19.5, y: -290}
+      - {x: -21.5, y: -292}
+      - {x: -21.5, y: -301}
+      - {x: -14.5, y: -315}
+      - {x: -7.5, y: -315}
+      - {x: -5.5, y: -313}
+      - {x: 0.5, y: -298}
+    - - {x: 1.5, y: -290}
+      - {x: -0.5, y: -291}
+      - {x: -0.5, y: -308}
+      - {x: 2.5, y: -315}
+      - {x: 48.5, y: -315}
+      - {x: 48.5, y: -290}
+    - - {x: 74.5, y: -290}
+      - {x: 74.5, y: -304}
+      - {x: 78.5, y: -315}
+      - {x: 142.5, y: -315}
+      - {x: 144.5, y: -312}
+      - {x: 144.5, y: -290}
+    - - {x: 151.5, y: -290}
+      - {x: 149.5, y: -291}
+      - {x: 149.5, y: -315}
+      - {x: 158.5, y: -315}
+      - {x: 161.5, y: -314}
+      - {x: 162.5, y: -302}
+      - {x: 162.5, y: -292}
+      - {x: 160.5, y: -290}
+    - - {x: 175.5, y: -290}
+      - {x: 173.5, y: -291}
+      - {x: 173.5, y: -315}
+      - {x: 182.5, y: -315}
+      - {x: 185.5, y: -314}
+      - {x: 186.5, y: -302}
+      - {x: 186.5, y: -292}
+      - {x: 184.5, y: -290}
+    - - {x: -58.5, y: -307}
+      - {x: -61.5, y: -307}
+    - - {x: 10.5, y: -304}
+      - {x: 10.5, y: -301}
+      - {x: 13.5, y: -298}
+      - {x: 16.5, y: -301}
+      - {x: 22.5, y: -301}
+      - {x: 23.5, y: -300}
+      - {x: 23.5, y: -305}
+      - {x: 22.5, y: -304}
+      - {x: 16.5, y: -304}
+      - {x: 13.5, y: -307}
+    - - {x: 106.5, y: -298}
+      - {x: 109.5, y: -298}
+      - {x: 109.5, y: -307}
+      - {x: 106.5, y: -307}
+    - - {x: -58.5, y: -298}
+      - {x: -61.5, y: -298}
+    - - {x: -159.5, y: -162}
+      - {x: -159.5, y: -216}
+      - {x: 92.5, y: -216}
+      - {x: 92.5, y: -177}
+      - {x: 76.5, y: -162}
+    - - {x: -127.5, y: -202}
+      - {x: -126.5, y: -203}
+      - {x: -122.5, y: -198}
+      - {x: -122.5, y: -193}
+      - {x: -126.5, y: -189}
+      - {x: -126.5, y: -190}
+      - {x: -123.5, y: -190}
+      - {x: -122.5, y: -191}
+      - {x: -115.5, y: -191}
+      - {x: -114.5, y: -190}
+      - {x: -116.5, y: -191}
+      - {x: -116.5, y: -201}
+      - {x: -115.5, y: -202}
+      - {x: -115.5, y: -201}
+      - {x: -126.5, y: -201}
+    - - {x: -61.5, y: -196}
+      - {x: -61.5, y: -191}
+      - {x: -62.5, y: -190}
+      - {x: -62.5, y: -191}
+      - {x: -59.5, y: -188}
+      - {x: -60.5, y: -182}
+      - {x: -61.5, y: -188}
+      - {x: -59.5, y: -190}
+      - {x: -60.5, y: -191}
+      - {x: -60.5, y: -193}
+      - {x: -57.5, y: -196}
+      - {x: -58.5, y: -197}
+      - {x: -59.5, y: -196}
+    - - {x: -6.5, y: -191}
+      - {x: -7.5, y: -190}
+      - {x: -5.5, y: -191}
+      - {x: -2.5, y: -189}
+      - {x: -1.5, y: -186}
+      - {x: -1.5, y: -183}
+      - {x: -2.5, y: -182}
+      - {x: -2.5, y: -179}
+      - {x: -4.5, y: -177}
+      - {x: -0.5, y: -178}
+      - {x: 1.5, y: -177}
+      - {x: 2.5, y: -178}
+      - {x: 5.5, y: -178}
+      - {x: 5.5, y: -180}
+      - {x: 8.5, y: -183}
+      - {x: 8.5, y: -188}
+      - {x: 9.5, y: -189}
+      - {x: 9.5, y: -188}
+      - {x: 7.5, y: -190}
+      - {x: 5.5, y: -188}
+      - {x: -2.5, y: -188}
+      - {x: -6.5, y: -192}
+      - {x: -6.5, y: -196}
+    - - {x: -140.5, y: -188}
+      - {x: -137.5, y: -188}
+      - {x: -140.5, y: -188}
+      - {x: -141.5, y: -189}
+    - - {x: 16.5, y: -189}
+      - {x: 17.5, y: -188}
+      - {x: 16.5, y: -182}
+      - {x: 15.5, y: -186}
+      - {x: 17.5, y: -189}
+      - {x: 16.5, y: -188}
+    - - {x: 116.5, y: -188}
+      - {x: 118.5, y: -190}
+      - {x: 173.5, y: -190}
+      - {x: 173.5, y: -163}
+      - {x: 172.5, y: -162}
+      - {x: 116.5, y: -162}
+      - {x: 104.5, y: -174}
+      - {x: 104.5, y: -190}
+      - {x: 111.5, y: -190}
+      - {x: 117.5, y: -184}
+      - {x: 116.5, y: -185}
+    - - {x: -140.5, y: -174}
+      - {x: -140.5, y: -175}
+      - {x: -137.5, y: -175}
+      - {x: -137.5, y: -174}
+    - - {x: -111.5, y: -172}
+      - {x: -114.5, y: -169}
+      - {x: -113.5, y: -168}
+      - {x: -112.5, y: -169}
+      - {x: -112.5, y: -175}
+      - {x: -111.5, y: -175}
+    - - {x: 82.5, y: -162}
+      - {x: 82.5, y: -177}
+      - {x: 104.5, y: -177}
+      - {x: 107.5, y: -172}
+      - {x: 107.5, y: -162}
+    - - {x: -106.5, y: -63}
+      - {x: -156.5, y: -63}
+      - {x: -156.5, y: -114}
+      - {x: -118.5, y: -114}
+      - {x: -113.5, y: -113}
+      - {x: -110.5, y: -100}
+      - {x: -105.5, y: -81}
+      - {x: -105.5, y: -67}
+    - - {x: 0.5, y: 39}
+      - {x: 0.5, y: -77}
+      - {x: 28.5, y: -77}
+      - {x: 28.5, y: 39}
+    - - {x: 37.5, y: 39}
+      - {x: 37.5, y: -77}
+      - {x: 64.5, y: -77}
+      - {x: 65.5, y: -75}
+      - {x: 65.5, y: 37}
+      - {x: 63.5, y: 39}
+    - - {x: 80.5, y: 39}
+      - {x: 78.5, y: 37}
+      - {x: 78.5, y: -75}
+      - {x: 80.5, y: -77}
+      - {x: 104.5, y: -77}
+      - {x: 106.5, y: -75}
+      - {x: 106.5, y: 37}
+      - {x: 104.5, y: 39}
+    - - {x: -159.5, y: -28}
+      - {x: -159.5, y: -40}
+      - {x: -76.5, y: -40}
+      - {x: -76.5, y: -28}
+    - - {x: -162.5, y: 39}
+      - {x: -162.5, y: -12}
+      - {x: -31.5, y: -12}
+      - {x: -31.5, y: 39}
+    - - {x: -59.5, y: -5}
+      - {x: -56.5, y: -5}
+      - {x: -55.5, y: -6}
+      - {x: -57.5, y: -6}
+      - {x: -57.5, y: -5}
+    - - {x: -73.5, y: 9}
+      - {x: -72.5, y: 10}
+      - {x: -72.5, y: 12}
+      - {x: -71.5, y: 14}
+      - {x: -73.5, y: 13}
+      - {x: -73.5, y: 8}
+      - {x: -72.5, y: 8}
+    - - {x: -64.5, y: 14}
+      - {x: -63.5, y: 14}
+      - {x: -65.5, y: 13}
+    - - {x: -145.5, y: 18}
+      - {x: -142.5, y: 15}
+      - {x: -137.5, y: 15}
+      - {x: -139.5, y: 17}
+      - {x: -143.5, y: 17}
+      - {x: -145.5, y: 15}
+      - {x: -144.5, y: 15}
+    - - {x: -106.5, y: 22}
+      - {x: -105.5, y: 20}
+      - {x: -100.5, y: 15}
+      - {x: -99.5, y: 15}
+      - {x: -96.5, y: 18}
+      - {x: -92.5, y: 26}
+    - - {x: -44.5, y: 20}
+      - {x: -46.5, y: 20}
+      - {x: -48.5, y: 19}
+      - {x: -50.5, y: 21}
+      - {x: -56.5, y: 21}
+      - {x: -58.5, y: 19}
+      - {x: -60.5, y: 21}
+      - {x: -62.5, y: 21}
+      - {x: -64.5, y: 20}
+      - {x: -65.5, y: 21}
+      - {x: -61.5, y: 20}
+      - {x: -59.5, y: 22}
+      - {x: -56.5, y: 22}
+      - {x: -53.5, y: 19}
+      - {x: -50.5, y: 19}
+      - {x: -49.5, y: 20}
+      - {x: -47.5, y: 19}
+      - {x: -41.5, y: 19}
+      - {x: -39.5, y: 20}
+      - {x: -41.5, y: 18}
+      - {x: -42.5, y: 19}
+    - - {x: -160.5, y: 84}
+      - {x: -163.5, y: 82}
+      - {x: -163.5, y: 64}
+      - {x: -112.5, y: 64}
+      - {x: -112.5, y: 81}
+      - {x: -113.5, y: 84}
+    - - {x: -108.5, y: 84}
+      - {x: -112.5, y: 82}
+      - {x: -112.5, y: 67}
+      - {x: -110.5, y: 64}
+      - {x: -101.5, y: 64}
+      - {x: -98.5, y: 65}
+      - {x: -98.5, y: 81}
+      - {x: -102.5, y: 84}
+    - - {x: -92.5, y: 84}
+      - {x: -94.5, y: 82}
+      - {x: -94.5, y: 66}
+      - {x: -92.5, y: 64}
+      - {x: -86.5, y: 64}
+      - {x: -84.5, y: 66}
+      - {x: -84.5, y: 82}
+      - {x: -86.5, y: 84}
+    - - {x: -76.5, y: 84}
+      - {x: -80.5, y: 82}
+      - {x: -80.5, y: 67}
+      - {x: -78.5, y: 64}
+      - {x: -69.5, y: 64}
+      - {x: -66.5, y: 65}
+      - {x: -66.5, y: 81}
+      - {x: -70.5, y: 84}
+    - - {x: -65.5, y: 84}
+      - {x: -66.5, y: 82}
+      - {x: -66.5, y: 66}
+      - {x: -61.5, y: 64}
+      - {x: -33.5, y: 64}
+      - {x: -31.5, y: 65}
+      - {x: -31.5, y: 79}
+      - {x: -34.5, y: 84}
+    - - {x: -160.5, y: 156}
+      - {x: -162.5, y: 153}
+      - {x: -162.5, y: 126}
+      - {x: -158.5, y: 114}
+      - {x: -129.5, y: 114}
+      - {x: -129.5, y: 153}
+      - {x: -136.5, y: 156}
+    - - {x: -96.5, y: 150}
+      - {x: -118.5, y: 150}
+      - {x: -130.5, y: 133}
+      - {x: -130.5, y: 114}
+      - {x: -87.5, y: 114}
+      - {x: -87.5, y: 129}
+      - {x: -93.5, y: 149}
+    - - {x: -61.5, y: 150}
+      - {x: -64.5, y: 140}
+      - {x: -64.5, y: 114}
+      - {x: -36.5, y: 114}
+      - {x: -31.5, y: 122}
+      - {x: -31.5, y: 147}
+      - {x: -41.5, y: 150}
+    - - {x: 2.5, y: 142}
+      - {x: -4.5, y: 141}
+      - {x: -18.5, y: 132}
+      - {x: -18.5, y: 127}
+      - {x: -11.5, y: 114}
+      - {x: 7.5, y: 114}
+      - {x: 12.5, y: 115}
+      - {x: 14.5, y: 129}
+      - {x: 14.5, y: 141}
+      - {x: 13.5, y: 142}
+    - - {x: 37.5, y: 148}
+      - {x: 32.5, y: 148}
+      - {x: 29.5, y: 147}
+      - {x: 19.5, y: 141}
+      - {x: 16.5, y: 127}
+      - {x: 16.5, y: 114}
+      - {x: 38.5, y: 114}
+      - {x: 42.5, y: 122}
+      - {x: 42.5, y: 145}
+    - - {x: 50.5, y: 160}
+      - {x: 50.5, y: 123}
+      - {x: 62.5, y: 114}
+      - {x: 69.5, y: 114}
+      - {x: 72.5, y: 124}
+      - {x: 72.5, y: 155}
+      - {x: 70.5, y: 160}
+    - - {x: 120.5, y: 149}
+      - {x: 107.5, y: 141}
+      - {x: 107.5, y: 123}
+      - {x: 108.5, y: 122}
+      - {x: 140.5, y: 122}
+      - {x: 140.5, y: 149}
+    - - {x: -4.5, y: 197}
+      - {x: -18.5, y: 187}
+      - {x: -18.5, y: 181}
+      - {x: -12.5, y: 169}
+      - {x: 13.5, y: 169}
+      - {x: 14.5, y: 173}
+      - {x: 14.5, y: 197}
+    - - {x: 28.5, y: 203}
+      - {x: 16.5, y: 188}
+      - {x: 16.5, y: 169}
+      - {x: 38.5, y: 169}
+      - {x: 42.5, y: 178}
+      - {x: 42.5, y: 196}
+      - {x: 36.5, y: 203}
+    - - {x: 53.5, y: 215}
+      - {x: 50.5, y: 214}
+      - {x: 50.5, y: 184}
+      - {x: 60.5, y: 169}
+      - {x: 66.5, y: 169}
+      - {x: 68.5, y: 170}
+      - {x: 72.5, y: 182}
+      - {x: 72.5, y: 210}
+      - {x: 70.5, y: 215}
+    - - {x: -171.5, y: 215}
+      - {x: -171.5, y: 195}
+      - {x: -159.5, y: 180}
+      - {x: -78.5, y: 180}
+      - {x: -71.5, y: 182}
+      - {x: -71.5, y: 215}
+    - - {x: -66.5, y: 212}
+      - {x: -71.5, y: 205}
+      - {x: -71.5, y: 193}
+      - {x: -70.5, y: 189}
+      - {x: -60.5, y: 181}
+      - {x: -55.5, y: 181}
+      - {x: -47.5, y: 183}
+      - {x: -41.5, y: 189}
+      - {x: -41.5, y: 201}
+      - {x: -46.5, y: 212}
+    - - {x: -151.5, y: 201}
+      - {x: -146.5, y: 203}
+      - {x: -144.5, y: 203}
+      - {x: -143.5, y: 202}
+      - {x: -145.5, y: 201}
+      - {x: -149.5, y: 201}
+      - {x: -150.5, y: 202}
+    - - {x: -87.5, y: 201}
+      - {x: -82.5, y: 203}
+      - {x: -80.5, y: 203}
+      - {x: -79.5, y: 202}
+      - {x: -81.5, y: 201}
+      - {x: -85.5, y: 201}
+      - {x: -86.5, y: 202}
+    - - {x: -94.5, y: 253}
+      - {x: -109.5, y: 258}
+      - {x: -163.5, y: 258}
+      - {x: -171.5, y: 253}
+      - {x: -171.5, y: 241}
+      - {x: -156.5, y: 227}
+      - {x: -98.5, y: 227}
+      - {x: -96.5, y: 230}
+      - {x: -94.5, y: 236}
+    - - {x: -5.5, y: 263}
+      - {x: -18.5, y: 254}
+      - {x: -18.5, y: 237}
+      - {x: -7.5, y: 227}
+      - {x: 81.5, y: 227}
+      - {x: 81.5, y: 256}
+      - {x: 74.5, y: 263}
+    - - {x: 79.5, y: 239}
+      - {x: 88.5, y: 228}
+      - {x: 101.5, y: 228}
+      - {x: 111.5, y: 234}
+      - {x: 111.5, y: 251}
+      - {x: 105.5, y: 262}
+      - {x: 83.5, y: 262}
+      - {x: 79.5, y: 261}
+    - - {x: -78.5, y: 253}
+      - {x: -79.5, y: 252}
+      - {x: -79.5, y: 237}
+      - {x: -72.5, y: 233}
+      - {x: -37.5, y: 233}
+      - {x: -37.5, y: 253}
+    - - {x: -137.5, y: 304}
+      - {x: -141.5, y: 299}
+      - {x: -138.5, y: 295}
+      - {x: -114.5, y: 295}
+      - {x: -105.5, y: 299}
+      - {x: -105.5, y: 327}
+      - {x: -115.5, y: 329}
+      - {x: -165.5, y: 329}
+      - {x: -168.5, y: 327}
+      - {x: -171.5, y: 324}
+      - {x: -171.5, y: 299}
+      - {x: -170.5, y: 295}
+      - {x: -153.5, y: 295}
+      - {x: -145.5, y: 298}
+      - {x: -138.5, y: 303}
+      - {x: -138.5, y: 305}
+    - - {x: -112.5, y: 297}
+      - {x: -109.5, y: 298}
+      - {x: -109.5, y: 301}
+      - {x: -112.5, y: 302}
+      - {x: -114.5, y: 300}
+    - - {x: -160.5, y: 303}
+      - {x: -159.5, y: 301}
+      - {x: -154.5, y: 303}
+      - {x: -155.5, y: 302}
+      - {x: -154.5, y: 301}
+      - {x: -155.5, y: 303}
+      - {x: -156.5, y: 303}
+      - {x: -158.5, y: 301}
+      - {x: -157.5, y: 301}
+    - - {x: -115.5, y: 319}
+      - {x: -112.5, y: 320}
+      - {x: -112.5, y: 323}
+      - {x: -115.5, y: 324}
+      - {x: -117.5, y: 322}
+    physicsShape:
+    - - {x: -140.5, y: -271}
+      - {x: -154.5, y: -284}
+      - {x: -154.5, y: -316}
+      - {x: -148.5, y: -330}
+      - {x: -129.5, y: -330}
+      - {x: -122.5, y: -327}
+      - {x: -122.5, y: -275}
+      - {x: -129.5, y: -271}
+    - - {x: -72.5, y: -290}
+      - {x: -72.5, y: -315}
+      - {x: -23.5, y: -315}
+      - {x: -23.5, y: -293}
+      - {x: -27.5, y: -290}
+    - - {x: 0.5, y: -291}
+      - {x: -1.5, y: -290}
+      - {x: -19.5, y: -290}
+      - {x: -21.5, y: -292}
+      - {x: -21.5, y: -301}
+      - {x: -14.5, y: -315}
+      - {x: -7.5, y: -315}
+      - {x: -5.5, y: -313}
+      - {x: 0.5, y: -298}
+    - - {x: 1.5, y: -290}
+      - {x: -0.5, y: -291}
+      - {x: -0.5, y: -308}
+      - {x: 2.5, y: -315}
+      - {x: 48.5, y: -315}
+      - {x: 48.5, y: -290}
+    - - {x: 74.5, y: -290}
+      - {x: 74.5, y: -304}
+      - {x: 78.5, y: -315}
+      - {x: 142.5, y: -315}
+      - {x: 144.5, y: -312}
+      - {x: 144.5, y: -290}
+    - - {x: 151.5, y: -290}
+      - {x: 149.5, y: -291}
+      - {x: 149.5, y: -315}
+      - {x: 158.5, y: -315}
+      - {x: 161.5, y: -314}
+      - {x: 162.5, y: -302}
+      - {x: 162.5, y: -292}
+      - {x: 160.5, y: -290}
+    - - {x: 175.5, y: -290}
+      - {x: 173.5, y: -291}
+      - {x: 173.5, y: -315}
+      - {x: 182.5, y: -315}
+      - {x: 185.5, y: -314}
+      - {x: 186.5, y: -302}
+      - {x: 186.5, y: -292}
+      - {x: 184.5, y: -290}
+    - - {x: -58.5, y: -307}
+      - {x: -61.5, y: -307}
+    - - {x: 10.5, y: -304}
+      - {x: 10.5, y: -301}
+      - {x: 13.5, y: -298}
+      - {x: 16.5, y: -301}
+      - {x: 22.5, y: -301}
+      - {x: 23.5, y: -300}
+      - {x: 23.5, y: -305}
+      - {x: 22.5, y: -304}
+      - {x: 16.5, y: -304}
+      - {x: 13.5, y: -307}
+    - - {x: 106.5, y: -298}
+      - {x: 109.5, y: -298}
+      - {x: 109.5, y: -307}
+      - {x: 106.5, y: -307}
+    - - {x: -58.5, y: -298}
+      - {x: -61.5, y: -298}
+    - - {x: -149.5, y: -202}
+      - {x: -159.5, y: -202}
+      - {x: -159.5, y: -213}
+      - {x: -157.5, y: -215}
+      - {x: -148.5, y: -215}
+      - {x: -146.5, y: -213}
+      - {x: -146.5, y: -203}
+    - - {x: -145.5, y: -202}
+      - {x: -146.5, y: -203}
+      - {x: -146.5, y: -215}
+      - {x: -91.5, y: -215}
+      - {x: -91.5, y: -205}
+      - {x: -95.5, y: -202}
+    - - {x: -82.5, y: -202}
+      - {x: -82.5, y: -213}
+      - {x: -81.5, y: -215}
+      - {x: -71.5, y: -215}
+      - {x: -69.5, y: -213}
+      - {x: -69.5, y: -203}
+      - {x: -70.5, y: -202}
+    - - {x: -67.5, y: -202}
+      - {x: -69.5, y: -203}
+      - {x: -69.5, y: -208}
+      - {x: -68.5, y: -214}
+      - {x: -67.5, y: -215}
+      - {x: -61.5, y: -215}
+      - {x: -58.5, y: -208}
+      - {x: -58.5, y: -204}
+      - {x: -60.5, y: -202}
+    - - {x: -4.5, y: -202}
+      - {x: -47.5, y: -202}
+      - {x: -49.5, y: -203}
+      - {x: -49.5, y: -215}
+      - {x: -6.5, y: -215}
+      - {x: -3.5, y: -212}
+      - {x: -3.5, y: -205}
+    - - {x: 51.5, y: -202}
+      - {x: 5.5, y: -202}
+      - {x: 5.5, y: -214}
+      - {x: 7.5, y: -215}
+      - {x: 51.5, y: -215}
+    - - {x: -155.5, y: -189}
+      - {x: -159.5, y: -191}
+      - {x: -159.5, y: -202}
+      - {x: -124.5, y: -202}
+      - {x: -124.5, y: -191}
+      - {x: -125.5, y: -189}
+    - - {x: -115.5, y: -189}
+      - {x: -115.5, y: -202}
+      - {x: -70.5, y: -202}
+      - {x: -69.5, y: -201}
+      - {x: -69.5, y: -190}
+      - {x: -72.5, y: -189}
+    - - {x: -64.5, y: -189}
+      - {x: -69.5, y: -189}
+      - {x: -69.5, y: -201}
+      - {x: -67.5, y: -202}
+      - {x: -64.5, y: -202}
+      - {x: -62.5, y: -200}
+      - {x: -62.5, y: -190}
+    - - {x: -58.5, y: -189}
+      - {x: -58.5, y: -192}
+      - {x: -57.5, y: -201}
+      - {x: -56.5, y: -202}
+      - {x: -14.5, y: -202}
+      - {x: -14.5, y: -189}
+    - - {x: -9.5, y: -189}
+      - {x: -14.5, y: -189}
+      - {x: -14.5, y: -201}
+      - {x: -12.5, y: -202}
+      - {x: -9.5, y: -202}
+      - {x: -7.5, y: -200}
+      - {x: -7.5, y: -190}
+    - - {x: -2.5, y: -189}
+      - {x: -5.5, y: -193}
+      - {x: -5.5, y: -199}
+      - {x: -2.5, y: -202}
+      - {x: 29.5, y: -202}
+      - {x: 29.5, y: -189}
+    - - {x: 1.5, y: -195}
+      - {x: 0.5, y: -195}
+      - {x: 0.5, y: -197}
+      - {x: 1.5, y: -197}
+    - - {x: 12.5, y: -195}
+      - {x: 15.5, y: -196}
+      - {x: 15.5, y: -195}
+      - {x: 12.5, y: -196}
+    - - {x: 87.5, y: -183}
+      - {x: 85.5, y: -184}
+      - {x: 84.5, y: -188}
+      - {x: 86.5, y: -190}
+      - {x: 88.5, y: -190}
+      - {x: 91.5, y: -187}
+      - {x: 91.5, y: -185}
+      - {x: 89.5, y: -183}
+    - - {x: -159.5, y: -176}
+      - {x: -159.5, y: -189}
+      - {x: -114.5, y: -189}
+      - {x: -113.5, y: -188}
+      - {x: -113.5, y: -176}
+    - - {x: -113.5, y: -176}
+      - {x: -113.5, y: -189}
+      - {x: -91.5, y: -189}
+      - {x: -91.5, y: -178}
+      - {x: -95.5, y: -176}
+    - - {x: -86.5, y: -176}
+      - {x: -91.5, y: -176}
+      - {x: -91.5, y: -189}
+      - {x: -80.5, y: -189}
+      - {x: -80.5, y: -184}
+      - {x: -84.5, y: -177}
+    - - {x: -69.5, y: -176}
+      - {x: -69.5, y: -189}
+      - {x: -3.5, y: -189}
+      - {x: -3.5, y: -176}
+    - - {x: 28.5, y: -176}
+      - {x: 7.5, y: -176}
+      - {x: 7.5, y: -189}
+      - {x: 27.5, y: -189}
+      - {x: 29.5, y: -188}
+      - {x: 29.5, y: -179}
+    - - {x: 39.5, y: -176}
+      - {x: 38.5, y: -178}
+      - {x: 38.5, y: -189}
+      - {x: 84.5, y: -189}
+      - {x: 84.5, y: -176}
+    - - {x: 104.5, y: -176}
+      - {x: 104.5, y: -187}
+      - {x: 106.5, y: -189}
+      - {x: 110.5, y: -189}
+      - {x: 117.5, y: -183}
+      - {x: 117.5, y: -176}
+    - - {x: 117.5, y: -176}
+      - {x: 117.5, y: -189}
+      - {x: 172.5, y: -189}
+      - {x: 172.5, y: -179}
+      - {x: 169.5, y: -176}
+    - - {x: -159.5, y: -176}
+      - {x: -124.5, y: -176}
+      - {x: -124.5, y: -163}
+      - {x: -158.5, y: -163}
+      - {x: -159.5, y: -164}
+    - - {x: -124.5, y: -163}
+      - {x: -124.5, y: -176}
+      - {x: -113.5, y: -176}
+      - {x: -113.5, y: -163}
+    - - {x: -112.5, y: -163}
+      - {x: -113.5, y: -164}
+      - {x: -113.5, y: -176}
+      - {x: -80.5, y: -176}
+      - {x: -80.5, y: -163}
+    - - {x: -37.5, y: -163}
+      - {x: -67.5, y: -163}
+      - {x: -71.5, y: -168}
+      - {x: -71.5, y: -175}
+      - {x: -69.5, y: -176}
+      - {x: -38.5, y: -176}
+      - {x: -36.5, y: -172}
+      - {x: -36.5, y: -164}
+    - - {x: -27.5, y: -173}
+      - {x: -26.5, y: -176}
+      - {x: 18.5, y: -176}
+      - {x: 18.5, y: -163}
+      - {x: -22.5, y: -163}
+      - {x: -27.5, y: -166}
+    - - {x: 27.5, y: -163}
+      - {x: 27.5, y: -176}
+      - {x: 73.5, y: -176}
+      - {x: 73.5, y: -163}
+    - - {x: 82.5, y: -176}
+      - {x: 93.5, y: -176}
+      - {x: 95.5, y: -175}
+      - {x: 95.5, y: -166}
+      - {x: 94.5, y: -163}
+      - {x: 82.5, y: -163}
+    - - {x: 97.5, y: -163}
+      - {x: 95.5, y: -165}
+      - {x: 95.5, y: -169}
+      - {x: 96.5, y: -175}
+      - {x: 98.5, y: -176}
+      - {x: 103.5, y: -176}
+      - {x: 106.5, y: -169}
+      - {x: 106.5, y: -165}
+      - {x: 104.5, y: -163}
+    - - {x: 139.5, y: -163}
+      - {x: 116.5, y: -163}
+      - {x: 115.5, y: -165}
+      - {x: 115.5, y: -176}
+      - {x: 137.5, y: -176}
+      - {x: 139.5, y: -174}
+    - - {x: 141.5, y: -163}
+      - {x: 139.5, y: -167}
+      - {x: 139.5, y: -175}
+      - {x: 140.5, y: -176}
+      - {x: 172.5, y: -176}
+      - {x: 172.5, y: -165}
+      - {x: 169.5, y: -163}
+    - - {x: -106.5, y: -63}
+      - {x: -156.5, y: -63}
+      - {x: -156.5, y: -114}
+      - {x: -118.5, y: -114}
+      - {x: -113.5, y: -113}
+      - {x: -110.5, y: -100}
+      - {x: -105.5, y: -81}
+      - {x: -105.5, y: -67}
+    - - {x: 0.5, y: 39}
+      - {x: 0.5, y: -77}
+      - {x: 28.5, y: -77}
+      - {x: 28.5, y: 39}
+    - - {x: 37.5, y: 39}
+      - {x: 37.5, y: -77}
+      - {x: 64.5, y: -77}
+      - {x: 65.5, y: -75}
+      - {x: 65.5, y: 37}
+      - {x: 63.5, y: 39}
+    - - {x: 80.5, y: 39}
+      - {x: 78.5, y: 37}
+      - {x: 78.5, y: -75}
+      - {x: 80.5, y: -77}
+      - {x: 104.5, y: -77}
+      - {x: 106.5, y: -75}
+      - {x: 106.5, y: 37}
+      - {x: 104.5, y: 39}
+    - - {x: -159.5, y: -28}
+      - {x: -159.5, y: -40}
+      - {x: -76.5, y: -40}
+      - {x: -76.5, y: -28}
+    - - {x: -162.5, y: 39}
+      - {x: -162.5, y: -12}
+      - {x: -31.5, y: -12}
+      - {x: -31.5, y: 39}
+    - - {x: -59.5, y: -5}
+      - {x: -56.5, y: -5}
+      - {x: -55.5, y: -6}
+      - {x: -57.5, y: -6}
+      - {x: -57.5, y: -5}
+    - - {x: -73.5, y: 9}
+      - {x: -72.5, y: 10}
+      - {x: -72.5, y: 12}
+      - {x: -71.5, y: 14}
+      - {x: -73.5, y: 13}
+      - {x: -73.5, y: 8}
+      - {x: -72.5, y: 8}
+    - - {x: -64.5, y: 14}
+      - {x: -63.5, y: 14}
+      - {x: -65.5, y: 13}
+    - - {x: -145.5, y: 18}
+      - {x: -142.5, y: 15}
+      - {x: -137.5, y: 15}
+      - {x: -139.5, y: 17}
+      - {x: -143.5, y: 17}
+      - {x: -145.5, y: 15}
+      - {x: -144.5, y: 15}
+    - - {x: -106.5, y: 22}
+      - {x: -105.5, y: 20}
+      - {x: -100.5, y: 15}
+      - {x: -99.5, y: 15}
+      - {x: -96.5, y: 18}
+      - {x: -92.5, y: 26}
+    - - {x: -44.5, y: 20}
+      - {x: -46.5, y: 20}
+      - {x: -48.5, y: 19}
+      - {x: -50.5, y: 21}
+      - {x: -56.5, y: 21}
+      - {x: -58.5, y: 19}
+      - {x: -60.5, y: 21}
+      - {x: -62.5, y: 21}
+      - {x: -64.5, y: 20}
+      - {x: -65.5, y: 21}
+      - {x: -61.5, y: 20}
+      - {x: -59.5, y: 22}
+      - {x: -56.5, y: 22}
+      - {x: -53.5, y: 19}
+      - {x: -50.5, y: 19}
+      - {x: -49.5, y: 20}
+      - {x: -47.5, y: 19}
+      - {x: -41.5, y: 19}
+      - {x: -39.5, y: 20}
+      - {x: -41.5, y: 18}
+      - {x: -42.5, y: 19}
+    - - {x: -160.5, y: 84}
+      - {x: -163.5, y: 82}
+      - {x: -163.5, y: 64}
+      - {x: -112.5, y: 64}
+      - {x: -112.5, y: 81}
+      - {x: -113.5, y: 84}
+    - - {x: -108.5, y: 84}
+      - {x: -112.5, y: 82}
+      - {x: -112.5, y: 67}
+      - {x: -110.5, y: 64}
+      - {x: -101.5, y: 64}
+      - {x: -98.5, y: 65}
+      - {x: -98.5, y: 81}
+      - {x: -102.5, y: 84}
+    - - {x: -92.5, y: 84}
+      - {x: -94.5, y: 82}
+      - {x: -94.5, y: 66}
+      - {x: -92.5, y: 64}
+      - {x: -86.5, y: 64}
+      - {x: -84.5, y: 66}
+      - {x: -84.5, y: 82}
+      - {x: -86.5, y: 84}
+    - - {x: -76.5, y: 84}
+      - {x: -80.5, y: 82}
+      - {x: -80.5, y: 67}
+      - {x: -78.5, y: 64}
+      - {x: -69.5, y: 64}
+      - {x: -66.5, y: 65}
+      - {x: -66.5, y: 81}
+      - {x: -70.5, y: 84}
+    - - {x: -65.5, y: 84}
+      - {x: -66.5, y: 82}
+      - {x: -66.5, y: 66}
+      - {x: -61.5, y: 64}
+      - {x: -33.5, y: 64}
+      - {x: -31.5, y: 65}
+      - {x: -31.5, y: 79}
+      - {x: -34.5, y: 84}
+    - - {x: -160.5, y: 156}
+      - {x: -162.5, y: 153}
+      - {x: -162.5, y: 126}
+      - {x: -158.5, y: 114}
+      - {x: -129.5, y: 114}
+      - {x: -129.5, y: 153}
+      - {x: -136.5, y: 156}
+    - - {x: -96.5, y: 150}
+      - {x: -118.5, y: 150}
+      - {x: -130.5, y: 133}
+      - {x: -130.5, y: 114}
+      - {x: -87.5, y: 114}
+      - {x: -87.5, y: 129}
+      - {x: -93.5, y: 149}
+    - - {x: -61.5, y: 150}
+      - {x: -64.5, y: 140}
+      - {x: -64.5, y: 114}
+      - {x: -36.5, y: 114}
+      - {x: -31.5, y: 122}
+      - {x: -31.5, y: 147}
+      - {x: -41.5, y: 150}
+    - - {x: 2.5, y: 142}
+      - {x: -4.5, y: 141}
+      - {x: -18.5, y: 132}
+      - {x: -18.5, y: 127}
+      - {x: -11.5, y: 114}
+      - {x: 7.5, y: 114}
+      - {x: 12.5, y: 115}
+      - {x: 14.5, y: 129}
+      - {x: 14.5, y: 141}
+      - {x: 13.5, y: 142}
+    - - {x: 37.5, y: 148}
+      - {x: 32.5, y: 148}
+      - {x: 29.5, y: 147}
+      - {x: 19.5, y: 141}
+      - {x: 16.5, y: 127}
+      - {x: 16.5, y: 114}
+      - {x: 38.5, y: 114}
+      - {x: 42.5, y: 122}
+      - {x: 42.5, y: 145}
+    - - {x: 50.5, y: 160}
+      - {x: 50.5, y: 123}
+      - {x: 62.5, y: 114}
+      - {x: 69.5, y: 114}
+      - {x: 72.5, y: 124}
+      - {x: 72.5, y: 155}
+      - {x: 70.5, y: 160}
+    - - {x: 120.5, y: 149}
+      - {x: 107.5, y: 141}
+      - {x: 107.5, y: 123}
+      - {x: 108.5, y: 122}
+      - {x: 140.5, y: 122}
+      - {x: 140.5, y: 149}
+    - - {x: -4.5, y: 197}
+      - {x: -18.5, y: 187}
+      - {x: -18.5, y: 181}
+      - {x: -12.5, y: 169}
+      - {x: 13.5, y: 169}
+      - {x: 14.5, y: 173}
+      - {x: 14.5, y: 197}
+    - - {x: 28.5, y: 203}
+      - {x: 16.5, y: 188}
+      - {x: 16.5, y: 169}
+      - {x: 38.5, y: 169}
+      - {x: 42.5, y: 178}
+      - {x: 42.5, y: 196}
+      - {x: 36.5, y: 203}
+    - - {x: 53.5, y: 215}
+      - {x: 50.5, y: 214}
+      - {x: 50.5, y: 184}
+      - {x: 60.5, y: 169}
+      - {x: 66.5, y: 169}
+      - {x: 68.5, y: 170}
+      - {x: 72.5, y: 182}
+      - {x: 72.5, y: 210}
+      - {x: 70.5, y: 215}
+    - - {x: -171.5, y: 215}
+      - {x: -171.5, y: 195}
+      - {x: -159.5, y: 180}
+      - {x: -78.5, y: 180}
+      - {x: -71.5, y: 182}
+      - {x: -71.5, y: 215}
+    - - {x: -66.5, y: 212}
+      - {x: -71.5, y: 205}
+      - {x: -71.5, y: 193}
+      - {x: -70.5, y: 189}
+      - {x: -60.5, y: 181}
+      - {x: -55.5, y: 181}
+      - {x: -47.5, y: 183}
+      - {x: -41.5, y: 189}
+      - {x: -41.5, y: 201}
+      - {x: -46.5, y: 212}
+    - - {x: -151.5, y: 201}
+      - {x: -146.5, y: 203}
+      - {x: -144.5, y: 203}
+      - {x: -143.5, y: 202}
+      - {x: -145.5, y: 201}
+      - {x: -149.5, y: 201}
+      - {x: -150.5, y: 202}
+    - - {x: -87.5, y: 201}
+      - {x: -82.5, y: 203}
+      - {x: -80.5, y: 203}
+      - {x: -79.5, y: 202}
+      - {x: -81.5, y: 201}
+      - {x: -85.5, y: 201}
+      - {x: -86.5, y: 202}
+    - - {x: -94.5, y: 253}
+      - {x: -109.5, y: 258}
+      - {x: -163.5, y: 258}
+      - {x: -171.5, y: 253}
+      - {x: -171.5, y: 241}
+      - {x: -156.5, y: 227}
+      - {x: -98.5, y: 227}
+      - {x: -96.5, y: 230}
+      - {x: -94.5, y: 236}
+    - - {x: -5.5, y: 263}
+      - {x: -18.5, y: 254}
+      - {x: -18.5, y: 237}
+      - {x: -7.5, y: 227}
+      - {x: 81.5, y: 227}
+      - {x: 81.5, y: 256}
+      - {x: 74.5, y: 263}
+    - - {x: 79.5, y: 239}
+      - {x: 88.5, y: 228}
+      - {x: 101.5, y: 228}
+      - {x: 111.5, y: 234}
+      - {x: 111.5, y: 251}
+      - {x: 105.5, y: 262}
+      - {x: 83.5, y: 262}
+      - {x: 79.5, y: 261}
+    - - {x: -78.5, y: 253}
+      - {x: -79.5, y: 252}
+      - {x: -79.5, y: 237}
+      - {x: -72.5, y: 233}
+      - {x: -37.5, y: 233}
+      - {x: -37.5, y: 253}
+    - - {x: -137.5, y: 304}
+      - {x: -141.5, y: 299}
+      - {x: -138.5, y: 295}
+      - {x: -114.5, y: 295}
+      - {x: -105.5, y: 299}
+      - {x: -105.5, y: 327}
+      - {x: -115.5, y: 329}
+      - {x: -165.5, y: 329}
+      - {x: -168.5, y: 327}
+      - {x: -171.5, y: 324}
+      - {x: -171.5, y: 299}
+      - {x: -170.5, y: 295}
+      - {x: -153.5, y: 295}
+      - {x: -145.5, y: 298}
+      - {x: -138.5, y: 303}
+      - {x: -138.5, y: 305}
+    - - {x: -112.5, y: 297}
+      - {x: -109.5, y: 298}
+      - {x: -109.5, y: 301}
+      - {x: -112.5, y: 302}
+      - {x: -114.5, y: 300}
+    - - {x: -160.5, y: 303}
+      - {x: -159.5, y: 301}
+      - {x: -154.5, y: 303}
+      - {x: -155.5, y: 302}
+      - {x: -154.5, y: 301}
+      - {x: -155.5, y: 303}
+      - {x: -156.5, y: 303}
+      - {x: -158.5, y: 301}
+      - {x: -157.5, y: 301}
+    - - {x: -115.5, y: 319}
+      - {x: -112.5, y: 320}
+      - {x: -112.5, y: 323}
+      - {x: -115.5, y: 324}
+      - {x: -117.5, y: 322}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_167: 417566746
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_114: 1760908977
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_66: 128065256
+      Coin5: 1353308757
+      EnemyDinoGRun3: 705346135
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_56: -646882795
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_82: 717888478
+      Heart: -1159080195
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_165: 1049262707
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_83: 1468458633
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_4: -1549216139
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_58: -589066521
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_109: -1993149063
+      DeathP: 1149206135
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_122: -795958401
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_108: -1816853184
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_183: 754885317
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_163: 1198904058
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_12: 2040964672
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_155: -720332128
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_154: -1150838699
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_99: 545017466
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_100: -901788530
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_171: -267816633
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_13: 1166776064
+      EnemyClubReady: 1888112299
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_84: 896560825
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_21: -996899583
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_147: 2145993028
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_47: -1571176070
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_160: 1986701144
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_32: 763921227
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_77: 1356740029
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_19: 1590631824
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_107: -763663726
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_80: -1222886444
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_33: -711853250
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_104: -1886151566
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_69: 238145447
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_182: -468563506
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_127: 2129655217
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_51: 2102561827
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_90: 25923607
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_161: 879934245
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_153: 723833768
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_112: -2013559458
+      EnemyDinoGRun4: -1934478630
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_185: 1906624771
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_142: -98110770
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_14: 1242030009
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_172: 1127279456
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_74: 1396871549
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_141: -919538757
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_135: 143281223
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_188: -932125105
+      Coin1: 1035782967
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_78: -1278257251
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_189: -1304336582
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_174: -980268622
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_131: -1459913956
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_63: 1463523478
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_35: -387515496
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_138: 1197305587
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_38: 1009323829
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_157: 2040394163
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_15: 1236258441
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_53: -489451540
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_68: -521692278
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_134: 137424977
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_94: 1656346177
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_57: 443882036
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_118: 2122651794
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_159: 1146955613
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_173: -915958620
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_130: 618645017
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_187: 1296968289
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_116: 845004681
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_136: -161605363
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_106: 1700511621
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_91: 2074081447
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_123: 1817212264
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_20: -995999084
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_42: -999430160
+      EnemyDinoPRun1: -1089692046
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_149: -850059220
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_145: 119773009
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_146: -2088135372
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_79: 151363865
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_95: -687317679
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_184: -1324205595
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_59: 235382483
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_103: -1782149885
+      EnemyDinoGRun1: 1779873189
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_76: -1838700942
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_143: -792260721
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_71: -1995298437
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_49: -1367519091
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_97: 2079774498
+      EggBatterProjectile: 210278347
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_50: 1900801807
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_110: -188307102
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_3: 614535951
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_70: -1951289686
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_75: -1226193472
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_125: -1780503202
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_101: 1813529965
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_6: 932433953
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_37: -157313657
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_65: -1120875466
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_180: -1121970724
+      EnemyDinoGRun2: -955190230
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_17: 1015500463
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_43: -236568771
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_92: -1119771948
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_175: -1393743118
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_119: 157200071
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_144: 1816187117
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_23: 1674266526
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_85: 2010011714
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_98: 1640431662
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_181: 2105288483
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_60: -2132380165
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_126: 1424228392
+      EnemyDinoPRun2: -1894748635
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_44: 927844526
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_156: -2144024194
+      Coin8: -167730342
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_190: -120701838
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_158: 257033037
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_111: 292030855
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_5: -878154668
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_72: 143960193
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_41: 1528347722
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_128: -456236636
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_34: 1907434851
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_152: 1488665527
+      DeathY: 1176446929
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_89: -672902175
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_39: 1983638605
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_1: -867216350
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_133: -1456028570
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_105: -663405951
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_55: 1682623402
+      Coin7: 1965979405
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_52: 115433541
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_24: -1364289107
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_48: -1254235028
+      EnemyDinoPRun3: -387538094
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_124: 1932191613
+      Coin3: 1759002413
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_150: 1803448510
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_137: -2108825172
+      Coin6: -886248727
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_113: -941877932
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_61: 1109189445
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_179: -539408494
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_120: -136503838
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_46: -1186249523
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_62: -1726790334
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_54: -688747079
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_139: 1599237918
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_121: 20233929
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_117: -477201913
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_88: -638630599
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_148: 1816551298
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_67: 1806982894
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_102: -211553546
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_170: -463467246
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_166: -741945887
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_40: 751233730
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_186: -50458600
+      Coin2: 1907331699
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_115: 1883541241
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_151: -1324853978
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_45: 1677861912
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_93: 1235620614
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_177: 130261033
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_164: 202925005
+      EnemyClubAttack: 677459569
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_64: -1866324863
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_169: -2078739138
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_140: 319554890
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_178: 1463840857
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_129: -1415070888
+      EnemyClubAttackR: 545857238
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_36: -750694655
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_81: 914323537
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_86: 1034846983
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_168: -1817745974
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_132: -1725311761
+      Coin4: 3844732
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_73: -1123672723
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_96: 1503204477
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_162: 817330440
+      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_176: -478076
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

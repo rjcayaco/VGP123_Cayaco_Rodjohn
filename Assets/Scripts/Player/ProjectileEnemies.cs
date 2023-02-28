@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class Projectile : MonoBehaviour
+public class ProjectileEnemies : MonoBehaviour
 {
     public float lifetime;
 
@@ -14,7 +14,7 @@ public class Projectile : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if(lifetime <=0)
+        if (lifetime <= 0)
         {
             lifetime = 2.0f;
         }
@@ -25,17 +25,17 @@ public class Projectile : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Ground") || collision.gameObject.CompareTag("Wall"))
             Destroy(gameObject);
 
-        if (collision.gameObject.CompareTag("Enemy"))
+       /* if (collision.gameObject.CompareTag("Enemy"))
         {
             collision.gameObject.GetComponent<Enemy>().TakeDamage(1);
             Destroy(gameObject);
-        }
+        }*/
     }
 }
