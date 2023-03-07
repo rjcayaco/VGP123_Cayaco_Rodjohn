@@ -10,26 +10,13 @@ public class EnemyTurret : Enemy
 
     public float minDistance;
 
-    //private bool flip;
     //public GameObject Player;
 
     // Update is called once per frame
     void Update()
     {
-        /*Vector3 scale = transform.localScale;
-
-        if (Player.transform.position.x > transform.position.x)
-        {
-            scale.x = Mathf.Abs(scale.x) * -1 * (flip ? -1 : 1);
-        }
-        else
-        {
-            scale.x = Mathf.Abs(scale.x) * (flip ? -1 : 1);
-        }
-        */
-
+      
         float distance = GameObject.FindGameObjectWithTag("Player").transform.position.x - gameObject.transform.position.x;
-        Debug.Log(distance);
 
         if(distance < minDistance && distance > -minDistance )
         {

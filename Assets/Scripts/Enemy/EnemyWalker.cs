@@ -41,6 +41,13 @@ public class EnemyWalker : Enemy
         {
             sr.flipX = !sr.flipX;
         }
+
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+            GameManager.instance.lives--;
     }
 
     public void DestroyMyself()

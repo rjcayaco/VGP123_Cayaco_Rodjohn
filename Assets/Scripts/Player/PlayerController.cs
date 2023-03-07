@@ -211,6 +211,13 @@ public class PlayerController : MonoBehaviour
         {
             JumpForceChange = StartCoroutine(jumpForceChange());
         }
+           else
+        {
+            StopCoroutine(JumpForceChange);
+            JumpForceChange = null;
+            jumpForce /= 2;
+            JumpForceChange = StartCoroutine(jumpForceChange());
+        }
     }
    IEnumerator jumpForceChange()
     {
