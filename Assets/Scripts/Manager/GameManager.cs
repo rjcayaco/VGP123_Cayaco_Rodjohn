@@ -2,11 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+using UnityEngine.Events;
 
 [DefaultExecutionOrder(-1)]
 public class GameManager : MonoBehaviour
 {
+    public UnityEvent<int> onLifeValueChanged;
+    public UnityEvent<int> onScoreValuelChanged;
+
     private static GameManager _instance = null;
 
     public static GameManager instance
@@ -18,6 +21,7 @@ public class GameManager : MonoBehaviour
     private int _lives = 3;
 
     public int lives
+
     {
         get { return _lives; }
         set
@@ -30,9 +34,28 @@ public class GameManager : MonoBehaviour
             if (_lives > maxLives)
                 _lives = maxLives;
 
+            
+           onLifeValueChanged?.Invoke(_lives);
+            
+
             Debug.Log("Lives have been set to: " + _lives.ToString());
         }
     }
+
+    public int _score = 0;
+    public int Score
+    {
+        get { return _score; }
+        set
+        {
+            _score = value;
+
+            onScoreValuelChanged?.Invoke(_score);
+
+            Debug.Log("Score: " + _score.ToString());
+        }
+    }
+
 
     public PlayerController playerPrefab;
     [HideInInspector] public PlayerController playerInstance = null;
@@ -78,14 +101,14 @@ public class GameManager : MonoBehaviour
             if (SceneManager.GetActiveScene().buildIndex == 0)
                 SceneManager.LoadScene(1);
             else if (SceneManager.GetActiveScene().buildIndex == 2)
-                SceneManager.LoadScene(1);
+                SceneManager.LoadScene(0);
             else
                 SceneManager.LoadScene(0);
         }
         if (Input.GetKeyDown(KeyCode.K))
             lives--;
 
-        if (lives < 0)
+        if (lives < 1)
             GameOver();
 
     }
@@ -100,4 +123,6 @@ public class GameManager : MonoBehaviour
         if (SceneManager.GetActiveScene().buildIndex == 1)
             SceneManager.LoadScene(2);
     }
+
+
 }

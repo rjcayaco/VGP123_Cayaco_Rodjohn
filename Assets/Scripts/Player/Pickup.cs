@@ -28,11 +28,11 @@ public class Pickup : MonoBehaviour
 
                     break;
                 case PickupType.Life:
-                    temp.lives++;
+                    GameManager.instance.lives++;
 
                     break;
                 case PickupType.Score:
-                    temp.Score++;
+                    GameManager.instance.Score++;
                     break;
             }
 

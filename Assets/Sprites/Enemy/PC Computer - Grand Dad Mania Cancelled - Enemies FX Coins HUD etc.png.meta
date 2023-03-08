@@ -2070,7 +2070,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_93
+      name: CoinUI
       rect:
         serializedVersion: 2
         x: 40
@@ -5292,6 +5292,7 @@ TextureImporter:
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_174: -980268622
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_131: -1459913956
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_63: 1463523478
+      CoinUI: 1235620614
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_35: -387515496
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_138: 1197305587
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_38: 1009323829
@@ -5406,7 +5407,7 @@ TextureImporter:
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_115: 1883541241
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_151: -1324853978
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_45: 1677861912
-      PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_93: 1235620614
+      EnemyClubAttackR: 545857238
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_177: 130261033
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_164: 202925005
       EnemyClubAttack: 677459569
@@ -5415,7 +5416,6 @@ TextureImporter:
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_140: 319554890
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_178: 1463840857
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_129: -1415070888
-      EnemyClubAttackR: 545857238
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_36: -750694655
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_81: 914323537
       PC Computer - Grand Dad Mania Cancelled - Enemies FX Coins HUD etc_86: 1034846983

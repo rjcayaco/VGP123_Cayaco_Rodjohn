@@ -125,7 +125,7 @@ TextureImporter:
         width: 257
         height: 225
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,6 +133,69 @@ TextureImporter:
       bones: []
       spriteID: cea62821f40a4d448ae9242843ac1298
       internalID: 753272199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleOnly
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 275
+        width: 238
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f436a60f380c4499929106db90b0f
+      internalID: -767536897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FredStar
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 376
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71a02a59bb29f249b00d5f5a81e0fc5
+      internalID: -2140764894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink Background
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 17
+        width: 159
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2917aaba388d4b744af4cfe17a0c2e75
+      internalID: 1666122778
       vertices: []
       indices: 
       edges: []
@@ -148,6 +211,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      TitleOnly: -767536897
+      FredStar: -2140764894
+      Pink Background: 1666122778
       TitleScreen: 753272199
   spritePackingTag: 
   pSDRemoveMatte: 0

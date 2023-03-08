@@ -118,70 +118,78 @@ public class PlayerController : MonoBehaviour
         //groundedchecking
         isGrounded = Physics2D.OverlapCircle(GroundCheck.position, GroundCheckRadius, isGroundLayer);
 
-
-        //horizontal movement
-        float hInput = Input.GetAxisRaw("Horizontal");
-
-        Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
-        rb.velocity = moveDirection;
-        Debug.Log(hInput);
-
-
-        //set grounded
-        anim.SetBool("isGrounded", isGrounded);
-
-
-        //animate walking back and forth
-        anim.SetFloat("hInput", Mathf.Abs(hInput));
-
-
-        //jump movement
-        if (isGrounded && Input.GetButtonDown("Jump"))
+        //Pause Check
+        if (UIManager.gameIsPaused == false)
         {
-            rb.velocity = Vector2.zero;
-            rb.AddForce(Vector2.up * jumpForce);
-        }
-        //attack
-        if (Input.GetButtonDown("Fire1"))
-        {
-            anim.SetTrigger("Attack");
-        }
-        if (curPlayingClip.Length > 0)
-        {
-            if (Input.GetButtonDown("Fire1") && curPlayingClip[0].clip.name != "Attack")
+            //horizontal movement
+            float hInput = Input.GetAxisRaw("Horizontal");
+
+            Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
+            rb.velocity = moveDirection;
+            Debug.Log(hInput);
+
+
+            //set grounded
+            anim.SetBool("isGrounded", isGrounded);
+
+
+            //animate walking back and forth
+            anim.SetFloat("hInput", Mathf.Abs(hInput));
+
+
+            //jump movement
+            if (isGrounded && Input.GetButtonDown("Jump"))
+            {
+                rb.velocity = Vector2.zero;
+                rb.AddForce(Vector2.up * jumpForce);
+            }
+            //attack
+            if (Input.GetButtonDown("Fire1"))
             {
                 anim.SetTrigger("Attack");
             }
-            else if (curPlayingClip[0].clip.name == "Attack")
+            if (curPlayingClip.Length > 0)
             {
-                rb.velocity = Vector2.zero;
+                if (Input.GetButtonDown("Fire1") && curPlayingClip[0].clip.name != "Attack")
+                {
+                    anim.SetTrigger("Attack");
+                }
+                else if (curPlayingClip[0].clip.name == "Attack")
+                {
+                    rb.velocity = Vector2.zero;
+                }
+                else
+                {
+                    /*
+                        Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
+                    rb.velocity = moveDirection;
+                    */
+                }
             }
-            else
+
+
+            //check for flipped and create an algorithm to flip your character
+            if (hInput != 0)
             {
-                /*
-                    Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
-                rb.velocity = moveDirection;
-                */
+                sr.flipX = (hInput < 0);
+            }
+
+            if (isGrounded)
+            {
+                rb.gravityScale = 1;
+
+            }
+            //shoot
+            if (Input.GetButtonDown("Fire2"))
+            {
+                anim.SetTrigger("Shoot");
             }
         }
-
-
-        //check for flipped and create an algorithm to flip your character
-        if (hInput != 0)
+        else
         {
-            sr.flipX = (hInput < 0);
-        }
-
-        if (isGrounded) 
-        {
-            rb.gravityScale = 1;
 
         }
-        //shoot
-        if (Input.GetButtonDown("Fire2"))
-        {
-            anim.SetTrigger("Shoot");
-        }
+        
             
     }
     public void IncreaseGravity()
