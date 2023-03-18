@@ -4,14 +4,21 @@ using System.Net.Http.Headers;
 using UnityEngine;
 using UnityEngine.UIElements;
 
+
+
 public class Pickup : MonoBehaviour
 {
+    AudioSourceManager asm;
+
     public enum PickupType
     {
         Powerup,
         Life,
         Score
     }
+
+    public AudioClip PickupSound;
+
 
     public PickupType currentPickup;
 
@@ -35,6 +42,12 @@ public class Pickup : MonoBehaviour
                     GameManager.instance.Score++;
                     break;
             }
+
+            if(PickupSound)
+            {
+                collision.gameObject.GetComponent<AudioSourceManager>().PlayOneShot(PickupSound, false);
+            }
+
 
             Destroy(gameObject);
         }

@@ -99,6 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10eeb329d5f779340b845b6230d3707d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PickupSound: {fileID: 8300000, guid: 4e685edb246cdc843b0677ed30b3b629, type: 3}
   currentPickup: 2
 --- !u!61 &8051738801441094971
 BoxCollider2D:

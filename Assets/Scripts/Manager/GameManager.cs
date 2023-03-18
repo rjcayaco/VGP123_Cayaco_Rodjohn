@@ -3,12 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Events;
+using System.Security.Cryptography;
+using UnityEngine.Audio;
 
 [DefaultExecutionOrder(-1)]
 public class GameManager : MonoBehaviour
 {
+
+
     public UnityEvent<int> onLifeValueChanged;
     public UnityEvent<int> onScoreValuelChanged;
+
+    public AudioClip Death;
 
     private static GameManager _instance = null;
 
@@ -28,19 +34,24 @@ public class GameManager : MonoBehaviour
         {
             if (_lives > value)
                 Respawn();
+                
+                
 
             _lives = value;
 
             if (_lives > maxLives)
                 _lives = maxLives;
 
-            
+           
            onLifeValueChanged?.Invoke(_lives);
-            
 
-            Debug.Log("Lives have been set to: " + _lives.ToString());
+
+
+                Debug.Log("Lives have been set to: " + _lives.ToString());
         }
     }
+
+
 
     public int _score = 0;
     public int Score
@@ -77,6 +88,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
         lives = maxLives;
     }
 
@@ -89,7 +101,15 @@ public class GameManager : MonoBehaviour
     void Respawn()
     {
         if (playerInstance)
+        {
             playerInstance.transform.position = currentSpawnPoint.position;
+            GameManager.instance.playerInstance.GetComponent<AudioSourceManager>().PlayOneShot(Death, false);
+
+        }
+           
+
+
+    
     }
 
 
@@ -110,6 +130,8 @@ public class GameManager : MonoBehaviour
 
         if (lives < 1)
             GameOver();
+ 
+        
 
     }
 

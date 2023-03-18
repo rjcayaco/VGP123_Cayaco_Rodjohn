@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
+    AudioSourceManager asm;
+
     protected SpriteRenderer sr;
     protected Animator anim;
 
     protected int _health;
     public int maxHeath;
+
+    public AudioClip deathsound;
 
     public int heath
     {
@@ -28,12 +32,19 @@ public class Enemy : MonoBehaviour
     public virtual void Death()
     {
         anim.SetTrigger("Death");
+        
+        if(deathsound)
+            GameManager.instance.playerInstance.GetComponent<AudioSourceManager>().PlayOneShot(deathsound, false);
+
+        Destroy(gameObject);
+
     }
 
 
     // Start is called before the first frame update
     public virtual void Start()
     {
+        asm = GetComponent<AudioSourceManager>();
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
 

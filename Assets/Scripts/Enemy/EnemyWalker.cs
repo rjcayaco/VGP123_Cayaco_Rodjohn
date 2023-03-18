@@ -33,6 +33,9 @@ public class EnemyWalker : Enemy
                 rb.velocity = new Vector2(-speed, rb.velocity.y);
             }
         }
+
+        if (_health <= 0)
+            DestroyMyself();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -53,5 +56,6 @@ public class EnemyWalker : Enemy
     public void DestroyMyself()
     {
         Destroy(gameObject.transform.parent.gameObject.transform.parent.gameObject);
+        Destroy(gameObject);
     }
 }

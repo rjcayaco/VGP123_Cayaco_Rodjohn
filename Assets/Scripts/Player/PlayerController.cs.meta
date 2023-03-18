@@ -3,7 +3,15 @@ guid: 2b59a1cf162de7341937ee913fa2de0d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - GroundCheck: {instanceID: 0}
+  - jumpSound: {fileID: 8300000, guid: 5e674add2929aab428f1ca9f0c2cf599, type: 3}
+  - StepSound: {fileID: 8300000, guid: 7c8d37c0f67bac74da6f6629dcc419ff, type: 3}
+  - SlamSound: {fileID: 8300000, guid: d72a42688ad6a0241994e5ce5d967f89, type: 3}
+  - FireSound: {fileID: 8300000, guid: fcc0c4246ff2cf54b8053eb74f213387, type: 3}
+  - spawnPointRight: {instanceID: 0}
+  - spawnPointLeft: {instanceID: 0}
+  - projectilePrefab: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

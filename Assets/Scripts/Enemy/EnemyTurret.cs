@@ -50,11 +50,11 @@ public class EnemyTurret : Enemy
 
     }
 
-    public override void Death()
+   /* public override void Death()
     {
         Destroy(gameObject);
     }
-
+   */
     private void OnDisable()
     {
         shootScript.OnProjectileSpawned.RemoveListener(UpdateTimeSinceLastFire);

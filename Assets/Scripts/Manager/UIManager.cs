@@ -4,11 +4,13 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using Unity.VisualScripting;
+using UnityEngine.Audio;
+using Newtonsoft.Json.Linq;
 
 public class UIManager : MonoBehaviour
 {
 
-    public static bool gameIsPaused;
+    public AudioMixer audioMixer;
 
     [Header ("Images")]
     [SerializeField] private Image[] hearts;
@@ -32,6 +34,8 @@ public class UIManager : MonoBehaviour
 
     [Header("Slider")]
     public Slider volSlider;
+
+    public AudioClip PauseSound;
 
     public void StartGame()
     {
@@ -74,7 +78,15 @@ public class UIManager : MonoBehaviour
         
 
         if (volSlider && volSliderText)
-            volSliderText.text = volSlider.value.ToString();
+        {
+            float value;
+            audioMixer.GetFloat("MasterVol", out value);
+            volSlider.value = value + 80;
+            volSliderText.text = Mathf.Ceil(value + 80).ToString();
+            
+
+        }
+            
     }
 
     void MainMenu()
@@ -84,7 +96,7 @@ public class UIManager : MonoBehaviour
 
             if (Time.timeScale == 0)
                 Time.timeScale = 1;
-                gameIsPaused = false;
+                //gameIsPaused = false;
 
             SceneManager.LoadScene("Title");
         }
@@ -108,7 +120,11 @@ public class UIManager : MonoBehaviour
     void OnSliderValueChanged(float value)
     {
         if (volSliderText)
+        {
             volSliderText.text = value.ToString();
+            audioMixer.SetFloat("MasterVol", value - 80);
+        }
+            
     }
 
     void ResumeGame()
@@ -120,7 +136,7 @@ public class UIManager : MonoBehaviour
         pauseMenu.SetActive(false);
 
         Time.timeScale = 1;
-        gameIsPaused = false;
+        //gameIsPaused = false;
     }
 
     void UpdateLifeText(int value)
@@ -158,13 +174,14 @@ public class UIManager : MonoBehaviour
                 if (pauseMenu.activeSelf)
                 {
                     Time.timeScale = 0f; 
-                    gameIsPaused= true;
+                    GameManager.instance.playerInstance.GetComponent<AudioSourceManager>().PlayOneShot(PauseSound, false);
+                    //gameIsPaused= true;
 
                 }
                 else
                 {
                     Time.timeScale = 1;
-                    gameIsPaused= false;
+                   // gameIsPaused= false;
                 }
 
             }

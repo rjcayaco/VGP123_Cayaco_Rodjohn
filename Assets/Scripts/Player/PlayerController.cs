@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 [RequireComponent(typeof(Rigidbody2D), typeof(Animator), typeof(SpriteRenderer))]
 public class PlayerController : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D rb;
     Animator anim;
     SpriteRenderer sr;
+    AudioSourceManager asm; 
+
 
     //movement var
 
@@ -20,6 +23,13 @@ public class PlayerController : MonoBehaviour
     public Transform GroundCheck;
     public LayerMask isGroundLayer;
     public float GroundCheckRadius;
+
+    //soundclips
+    public AudioClip jumpSound;
+    public AudioClip SlamSound;
+    public AudioClip FireSound;
+
+
 
     //Shoot
     public float projectilespeed = 7;
@@ -74,6 +84,7 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
+        asm = GetComponent<AudioSourceManager>();
 
         if (speed <= 0)
         {
@@ -119,7 +130,7 @@ public class PlayerController : MonoBehaviour
         isGrounded = Physics2D.OverlapCircle(GroundCheck.position, GroundCheckRadius, isGroundLayer);
 
         //Pause Check
-        if (UIManager.gameIsPaused == false)
+        if (Time.timeScale > 0)
         {
             //horizontal movement
             float hInput = Input.GetAxisRaw("Horizontal");
@@ -142,11 +153,13 @@ public class PlayerController : MonoBehaviour
             {
                 rb.velocity = Vector2.zero;
                 rb.AddForce(Vector2.up * jumpForce);
+                asm.PlayOneShot(jumpSound, false);
             }
             //attack
             if (Input.GetButtonDown("Fire1"))
             {
                 anim.SetTrigger("Attack");
+                asm.PlayOneShot(SlamSound, false);
             }
             if (curPlayingClip.Length > 0)
             {
@@ -183,6 +196,7 @@ public class PlayerController : MonoBehaviour
             if (Input.GetButtonDown("Fire2"))
             {
                 anim.SetTrigger("Shoot");
+
             }
         }
         else
@@ -200,6 +214,8 @@ public class PlayerController : MonoBehaviour
 
     public void Fire()
     {
+        asm.PlayOneShot(FireSound, false);
+
         if (!sr.flipX)
         {
             Projectile curProjectile = Instantiate(projectilePrefab, spawnPointRight.position, spawnPointRight.rotation);

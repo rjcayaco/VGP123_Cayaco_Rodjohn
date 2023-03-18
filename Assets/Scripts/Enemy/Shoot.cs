@@ -3,14 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
+
 public class Shoot : MonoBehaviour
 {
     SpriteRenderer sr;
+   
 
     public UnityEvent OnProjectileSpawned;
     public float projectileSpeed;
     public Transform spawnPointRight;
     public Transform spawnPointLeft;
+
+    public AudioClip Projsound;
+
 
     public ProjectileEnemies projectilePrefab;
     // Start is called before the first frame update
@@ -27,6 +32,8 @@ public class Shoot : MonoBehaviour
 
     public void Fire()
     {
+        
+
         if (!sr.flipX)
         {
             ProjectileEnemies curProjectile = Instantiate(projectilePrefab, spawnPointLeft.position, spawnPointLeft.rotation);
@@ -37,6 +44,10 @@ public class Shoot : MonoBehaviour
             ProjectileEnemies curProjectile = Instantiate(projectilePrefab, spawnPointRight.position, spawnPointRight.rotation);
             curProjectile.speed = projectileSpeed;
         }
+
+
+        GameManager.instance.playerInstance.GetComponent<AudioSourceManager>().PlayOneShot(Projsound, false);
+
 
         OnProjectileSpawned?.Invoke();
     }
